@@ -1,0 +1,1513 @@
+ID	Sex	Age	MGMT	ECOG	EOR	TotalRadDose	Time_vte	Time_death/censoring	Vte_status	Death_status															
+1	Male	65+	Methylated	0	STR	>4500cGy		0.4323003246	0	1															
+2	Male	<65	Methylated	2	STR	>4500cGy		4.048071777	0	1															
+3	Male	<65	Unknown	Unknown	GTR	>4500cGy		4.780888452	0	1															
+4	Female	65+	Methylated	2	STR	>4500cGy	3.819270721	9.331808144	1	0															
+5	Female	65+	Methylated	1	STR	>4500cGy		4.47911188	0	1															
+6	Female	<65	Unmethylated	2	STR	>4500cGy	5.006216431	12.34871695	1	1															
+7	Male	65+	Unmethylated	1	STR	4000-4500cGy	0.9197711084	4.493552196	1	1															
+8	Male	65+	Unmethylated	1	GTR	>4500cGy		9.332956943	0	1															
+9	Male	<65	Unmethylated	0	Biopsy	>4500cGy		2.103437406	0	0															
+10	Female	65+	Unmethylated	1	STR	4000-4500cGy		1.497616349	0	1															
+11	Male	<65	Unmethylated	0	GTR	>4500cGy		7.103006086	0	1															
+12	Male	<65	Unmethylated	0	GTR	>4500cGy		0.6051894544	0	1															
+13	Male	<65	Methylated	1	STR	>4500cGy		5.655254496	0	0															
+14	Male	<65	Unmethylated	2	STR	>4500cGy		2.184088017	0	1															
+15	Male	<65	Methylated	0	STR	>4500cGy		12.4942516	0	0															
+16	Male	<65	Methylated	2	STR	>4500cGy		3.828233037	0	1															
+17	Male	<65	Methylated	0	GTR	>4500cGy		7.621726538	0	0															
+18	Male	<65	Unmethylated	1	STR	>4500cGy	0.0586602672	7.117270045	1	1															
+19	Male	<65	Methylated	1	STR	>4500cGy		1.285438382	0	1															
+20	Female	<65	Methylated	2	Biopsy	>4500cGy		23.92983173	0	1															
+21	Male	65+	Unmethylated	2	STR	>4500cGy	1.235032109	1.29698617	1	1															
+22	Female	<65	Unmethylated	0	STR	>4500cGy		31.52465243	0	0															
+23	Male	65+	Unmethylated	1	Biopsy	4000-4500cGy		0.571258682	0	1															
+24	Female	65+	Methylated	2	Biopsy	<4000cGy		22.09626941	0	1															
+25	Female	65+	Methylated	2	STR	4000-4500cGy		9.418358058	0	0															
+26	Male	<65	Methylated	1	STR	>4500cGy		13.82930479	0	1															
+27	Male	<65	Unmethylated	2	GTR	>4500cGy		31.92661239	0	1															
+28	Female	65+	Methylated	2	STR	4000-4500cGy		11.11766015	0	1															
+29	Female	<65	Unmethylated	1	STR	>4500cGy	7.901065998	13.12165837	1	1															
+30	Male	<65	Methylated	0	STR	>4500cGy		9.994921839	0	0															
+31	Male	65+	Methylated	1	GTR	>4500cGy		8.869770957	0	0															
+32	Male	<65	Unmethylated	1	STR	>4500cGy		1.742256697	0	1															
+33	Female	65+	Methylated	2	GTR	4000-4500cGy		1.706681495	0	0															
+34	Male	<65	Unmethylated	0	GTR	>4500cGy		11.28306418	0	0															
+35	Male	65+	Unmethylated	1	Biopsy	Unknown		0.4435639013	0	1															
+36	Female	<65	Unmethylated	1	Biopsy	>4500cGy		7.347768725	0	0															
+37	Female	65+	Unmethylated	2	STR	>4500cGy		6.189052788	0	1															
+38	Female	65+	Methylated	1	Biopsy	4000-4500cGy		5.413332453	0	1															
+39	Male	65+	Methylated	2	STR	>4500cGy		8.493389596	0	0															
+40	Male	65+	Unmethylated	1	Biopsy	4000-4500cGy		12.0331663	0	0															
+41	Male	<65	Unmethylated	0	Biopsy	>4500cGy		1.694615778	0	1															
+42	Male	65+	Unmethylated	1	Biopsy	4000-4500cGy		7.552707482	0	1															
+43	Male	<65	Methylated	1	GTR	>4500cGy		21.63785862	0	1															
+44	Female	65+	Methylated	1	STR	>4500cGy		3.164276338	0	1															
+45	Male	<65	Methylated	1	STR	>4500cGy		28.28335993	0	1															
+46	Male	65+	Unmethylated	1	STR	Unknown		0.2009996087	0	1															
+47	Male	<65	Unmethylated	0	GTR	>4500cGy		3.215348091	0	1															
+48	Female	65+	Unmethylated	1	STR	>4500cGy		2.747971352	0	1															
+49	Male	65+	Unmethylated	0	STR	>4500cGy		14.23273173	0	0															
+50	Male	<65	Unmethylated	1	STR	>4500cGy		3.605160178	0	1															
+51	Male	65+	Unmethylated	1	Biopsy	<4000cGy		0.7249612522	0	1															
+52	Male	<65	Methylated	2	GTR	>4500cGy	14.89761669	20.03343707	1	1															
+53	Female	65+	Unmethylated	1	STR	4000-4500cGy		5.760752743	0	0															
+54	Female	65+	Methylated	1	Biopsy	>4500cGy		2.063713796	0	1															
+55	Male	65+	Unmethylated	1	STR	4000-4500cGy		3.399608073	0	1															
+56	Female	65+	Methylated	1	STR	>4500cGy		2.718871322	0	1															
+57	Male	65+	Unmethylated	0	STR	4000-4500cGy		2.014568046	0	1															
+58	Male	65+	Unmethylated	0	STR	>4500cGy		8.712589696	0	0															
+59	Male	65+	Methylated	1	GTR	4000-4500cGy		12.51538925	0	0															
+60	Male	<65	Methylated	2	Biopsy	>4500cGy		1.684176813	0	0															
+61	Male	65+	Unmethylated	1	Biopsy	4000-4500cGy	2.071923797	4.623587589	1	1															
+62	Male	65+	Methylated	1	GTR	4000-4500cGy		4.224375817	0	1															
+63	Female	<65	Unmethylated	1	GTR	>4500cGy		5.12435019	0	0															
+64	Female	<65	Methylated	2	STR	>4500cGy		0.46566428	0	1															
+65	Male	<65	Unmethylated	1	Biopsy	>4500cGy		2.660685317	0	1															
+66	Male	<65	Unmethylated	1	GTR	>4500cGy		17.50424633	0	0															
+67	Male	65+	Methylated	1	STR	>4500cGy		9.183845346	0	0															
+68	Female	65+	Methylated	1	STR	>4500cGy		3.18749904	0	1															
+69	Male	<65	Methylated	1	STR	>4500cGy		20.65458417	0	1															
+70	Female	65+	Methylated	1	Biopsy	>4500cGy		1.155081059	0	1															
+71	Female	<65	Methylated	0	STR	>4500cGy		2.094875684	0	0															
+72	Female	<65	Methylated	0	GTR	>4500cGy		4.696356312	0	0															
+73	Female	65+	Unmethylated	1	STR	<4000cGy		5.488740784	0	1															
+74	Male	<65	Methylated	0	GTR	>4500cGy		21.81117799	0	1															
+75	Male	<65	Methylated	0	GTR	>4500cGy		2.451218272	0	0															
+76	Male	<65	Methylated	0	STR	>4500cGy	9.353521591	11.49474561	1	1															
+77	Female	<65	Methylated	0	GTR	>4500cGy	14.2794714	15.61720647	1	0															
+78	Male	<65	Unmethylated	0	GTR	>4500cGy		11.15506413	0	0															
+79	Female	<65	Unmethylated	0	GTR	>4500cGy		6.582550021	0	0															
+80	Male	<65	Methylated	0	STR	Unknown	1.547584137	5.361685703	1	0															
+81	Male	<65	Unmethylated	1	STR	>4500cGy		9.578876835	0	1															
+82	Female	<65	Unmethylated	2	STR	>4500cGy		27.85621617	0	1															
+83	Male	65+	Unmethylated	1	STR	4000-4500cGy		3.048232754	0	0															
+84	Male	<65	Methylated	0	GTR	>4500cGy		4.50748114	0	0															
+85	Male	<65	Methylated	1	Biopsy	>4500cGy	43.52757947	45.72545432	1	1															
+86	Female	<65	Unmethylated	0	STR	>4500cGy		3.918163756	0	0															
+87	Male	<65	Unmethylated	0	GTR	>4500cGy		1.5	0	0															
+88	Female	<65	Methylated	0	GTR	>4500cGy		73.89935832	0	0															
+89	Male	<65	Methylated	1	STR	>4500cGy		15.65270917	0	0															
+90	Male	<65	Unmethylated	0	GTR	>4500cGy		67.89302329	0	1															
+91	Male	<65	Unmethylated	0	STR	>4500cGy		5.278675989	0	0															
+92	Male	65+	Methylated	1	Biopsy	>4500cGy		0.9438354684	0	1															
+93	Female	<65	Methylated	2	STR	>4500cGy		5.012610242	0	1															
+94	Female	65+	Methylated	1	STR	>4500cGy	6.587201142	9.277426041	1	1															
+95	Male	<65	Unmethylated	0	STR	>4500cGy		11.68893575	0	1															
+96	Female	<65	Unmethylated	1	STR	>4500cGy	18.19783217	21.37799198	1	0															
+97	Male	65+	Unmethylated	0	GTR	>4500cGy		15.39328101	0	0															
+98	Male	65+	Unmethylated	1	GTR	>4500cGy		16.57089736	0	0															
+99	Male	<65	Unmethylated	0	GTR	Unknown	15.92506106	22.68458446	1	0															
+100	Female	<65	Methylated	1	STR	>4500cGy		1.5	0	0															
+101	Male	65+	Unmethylated	1	Biopsy	4000-4500cGy		5.800068296	0	1															
+102	Male	65+	Unmethylated	1	STR	>4500cGy		2.828616883	0	1															
+103	Male	65+	Methylated	2	STR	4000-4500cGy		2.380037759	0	1															
+104	Female	65+	Methylated	1	Biopsy	4000-4500cGy	0.04517962944	0.3689883916	1	1															
+105	Male	<65	Unmethylated	1	Biopsy	>4500cGy		2.464772415	0	1															
+106	Male	65+	Methylated	1	GTR	>4500cGy		5.595454812	0	0															
+107	Female	<65	Unknown	2	Biopsy	>4500cGy		42.58415774	0	1															
+108	Male	<65	Methylated	2	STR	>4500cGy		2.691787513	0	1															
+109	Male	65+	Methylated	2	Biopsy	4000-4500cGy	2.71325662	2.817328715	1	1															
+110	Male	<65	Unmethylated	0	GTR	>4500cGy		13.14689487	0	0															
+111	Male	<65	Methylated	2	STR	>4500cGy	0.6419334853	5.394225859	1	1															
+112	Male	65+	Methylated	1	STR	>4500cGy		7.187489385	0	0															
+113	Female	<65	Unmethylated	1	STR	>4500cGy		4.872196477	0	1															
+114	Male	65+	Unmethylated	0	Biopsy	4000-4500cGy		0.8799497356	0	1															
+115	Male	<65	Methylated	0	GTR	>4500cGy		61.3803472	0	0															
+116	Male	65+	Methylated	1	Biopsy	4000-4500cGy		0.726641604	0	1															
+117	Male	<65	Methylated	2	STR	>4500cGy		1.929247237	0	0															
+118	Female	<65	Unmethylated	1	STR	>4500cGy		3.990041105	0	1															
+119	Male	65+	Methylated	1	GTR	4000-4500cGy		0.5322964812	0	1															
+120	Female	<65	Methylated	0	STR	>4500cGy		2.324981492	0	0															
+121	Male	<65	Unmethylated	0	STR	>4500cGy	0.05950943476	3.816247162	1	1															
+122	Female	65+	Methylated	2	Biopsy	4000-4500cGy		4.246387114	0	0															
+123	Male	<65	Methylated	0	STR	>4500cGy		3.43872007	0	0															
+124	Male	<65	Methylated	0	STR	>4500cGy		17.22320532	0	0															
+125	Female	<65	Unmethylated	2	STR	>4500cGy	26.43338374	28.95467113	1	0															
+126	Male	<65	Methylated	1	GTR	>4500cGy		9.665131388	0	0															
+127	Male	<65	Unmethylated	1	STR	>4500cGy		5.129008911	0	1															
+128	Male	<65	Methylated	0	GTR	>4500cGy		4.303698207	0	0															
+129	Male	<65	Unmethylated	1	STR	>4500cGy		11.46813075	0	1															
+130	Female	<65	Unmethylated	0	STR	>4500cGy		5.635980804	0	1															
+131	Male	<65	Unmethylated	0	STR	>4500cGy		3.104569129	0	1															
+132	Male	<65	Methylated	1	STR	>4500cGy		25.89179259	0	1															
+133	Male	<65	Unmethylated	0	GTR	>4500cGy		11.01212422	0	1															
+134	Male	<65	Methylated	0	GTR	>4500cGy		5.986370192	0	0															
+135	Male	<65	Methylated	0	GTR	>4500cGy	4.441987526	14.40833422	1	1															
+136	Male	65+	Methylated	1	Biopsy	>4500cGy		4.759411703	0	0															
+137	Female	<65	Methylated	1	STR	>4500cGy		18.39371281	0	1															
+138	Female	65+	Unmethylated	2	STR	4000-4500cGy		0.838685203	0	1															
+139	Male	65+	Unmethylated	1	STR	>4500cGy	0.09247609695	0.6134193061	1	1															
+140	Female	65+	Methylated	0	STR	4000-4500cGy		7.430395162	0	0															
+141	Male	65+	Unmethylated	2	Biopsy	Unknown		9.454515932	0	0															
+142	Male	<65	Unmethylated	1	STR	>4500cGy		4.307504799	0	0															
+143	Male	<65	Methylated	0	STR	>4500cGy		0.3246477069	0	1															
+144	Male	<65	Unmethylated	0	STR	>4500cGy		5.636441768	0	1															
+145	Male	<65	Methylated	0	GTR	>4500cGy		7.279937103	0	0															
+146	Female	<65	Methylated	1	STR	>4500cGy		5.573581521	0	0															
+147	Female	65+	Unmethylated	1	STR	>4500cGy		2.688340704	0	0															
+148	Male	65+	Unmethylated	1	GTR	>4500cGy		14.03803377	0	1															
+149	Female	65+	Unmethylated	1	GTR	4000-4500cGy		16.00856607	0	1															
+150	Male	<65	Methylated	2	GTR	<4000cGy		9.532857353	0	0															
+151	Female	<65	Methylated	2	STR	>4500cGy		1.069572275	0	1															
+152	Male	65+	Unmethylated	1	STR	4000-4500cGy		6.785943876	0	1															
+153	Male	<65	Methylated	1	Biopsy	>4500cGy		3.125969288	0	1															
+154	Female	<65	Unmethylated	1	GTR	>4500cGy		1.09785515	0	1															
+155	Male	<65	Unmethylated	1	STR	>4500cGy		3.168556138	0	0															
+156	Female	<65	Methylated	0	STR	>4500cGy		8.338411334	0	0															
+157	Male	<65	Methylated	1	GTR	>4500cGy		19.97209412	0	1															
+158	Male	<65	Unmethylated	0	STR	>4500cGy		22.50049114	0	1															
+159	Male	<65	Unmethylated	0	GTR	>4500cGy		2.989319028	0	1															
+160	Male	<65	Unmethylated	0	GTR	>4500cGy		2.880195911	0	1															
+161	Male	<65	Methylated	2	GTR	>4500cGy		0.4199044883	0	1															
+162	Male	<65	Methylated	2	GTR	Unknown		7.414657756	0	0															
+163	Female	<65	Methylated	1	STR	>4500cGy		5.983501382	0	0															
+164	Male	65+	Methylated	0	Biopsy	<4000cGy		4.531255934	0	1															
+165	Male	<65	Unmethylated	1	GTR	>4500cGy		2.411213904	0	0															
+166	Male	<65	Unmethylated	1	Biopsy	>4500cGy		1.081037059	0	1															
+167	Male	<65	Unmethylated	1	STR	>4500cGy		24.55122064	0	1															
+168	Male	65+	Unmethylated	2	GTR	>4500cGy		19.31232406	0	1															
+169	Male	<65	Methylated	0	GTR	>4500cGy		1.051452504	0	1															
+170	Male	<65	Unmethylated	0	STR	>4500cGy		7.794125843	0	1															
+171	Male	<65	Unmethylated	0	STR	>4500cGy		17.7776578	0	0															
+172	Male	<65	Methylated	0	STR	>4500cGy		6.252251713	0	1															
+173	Male	<65	Methylated	1	GTR	>4500cGy		0.04396970724	0	1															
+174	Male	<65	Methylated	0	STR	>4500cGy		4.734066717	0	1															
+175	Male	65+	Unmethylated	1	STR	4000-4500cGy		1.745162465	0	0															
+176	Female	65+	Unmethylated	1	STR	>4500cGy		0.6508435826	0	1															
+177	Female	<65	Unmethylated	1	Biopsy	>4500cGy		12.53201949	0	1															
+178	Male	<65	Unmethylated	1	Biopsy	>4500cGy		0.2649199857	0	1															
+179	Male	<65	Methylated	2	STR	>4500cGy		3.878585305	0	0															
+180	Female	<65	Unmethylated	1	Biopsy	4000-4500cGy	4.594032401	4.893279967	1	0															
+181	Male	<65	Methylated	0	GTR	>4500cGy		7.009301306	0	0															
+182	Female	<65	Methylated	1	Biopsy	>4500cGy		35.55674409	0	1															
+183	Male	<65	Methylated	1	STR	>4500cGy		9.806756504	0	0															
+184	Male	<65	Methylated	0	Biopsy	>4500cGy		6.474327653	0	0															
+185	Female	65+	Unmethylated	0	GTR	>4500cGy		1.777800581	0	0															
+186	Male	<65	Unmethylated	1	GTR	>4500cGy		2.107753999	0	0															
+187	Male	<65	Methylated	1	Biopsy	>4500cGy		8.204786963	0	1															
+188	Male	65+	Methylated	0	STR	>4500cGy		5.38447249	0	0															
+189	Female	65+	Methylated	1	Biopsy	>4500cGy	1.590166401	4.714838426	1	1															
+190	Male	<65	Unmethylated	1	GTR	>4500cGy		6.885350176	0	1															
+191	Male	65+	Methylated	1	STR	>4500cGy		1.5	0	0															
+192	Male	65+	Methylated	2	Biopsy	<4000cGy		18.77463971	0	1															
+193	Male	65+	Unmethylated	0	STR	>4500cGy		18.05475571	0	1															
+194	Male	65+	Unmethylated	1	GTR	4000-4500cGy	1.496372709	6.552325964	1	1															
+195	Female	<65	Methylated	2	GTR	>4500cGy		12.54112684	0	0															
+196	Male	<65	Unmethylated	0	GTR	>4500cGy		10.34102463	0	0															
+197	Female	<65	Unmethylated	0	Biopsy	>4500cGy		13.42213341	0	1															
+198	Female	65+	Methylated	1	GTR	Unknown		2.988933367	0	0															
+199	Male	<65	Methylated	0	GTR	>4500cGy		40.01359703	0	0															
+200	Female	<65	Unmethylated	1	GTR	>4500cGy		6.116517859	0	0															
+201	Female	65+	Methylated	1	GTR	4000-4500cGy		24.10631254	0	0															
+202	Male	<65	Methylated	2	Biopsy	4000-4500cGy		21.37550678	0	1															
+203	Male	65+	Methylated	0	STR	>4500cGy		5.742189212	0	0															
+204	Female	<65	Methylated	0	GTR	>4500cGy		4.547433837	0	1															
+205	Female	<65	Methylated	1	Biopsy	>4500cGy		1.943247637	0	0															
+206	Female	65+	Methylated	1	STR	>4500cGy		46.49920143	0	1															
+207	Female	<65	Unmethylated	1	GTR	>4500cGy		5.861093368	0	0															
+208	Male	<65	Methylated	1	Unknown	4000-4500cGy		16.50732621	0	1															
+209	Male	<65	Unmethylated	0	GTR	>4500cGy		3.406927119	0	0															
+210	Female	<65	Methylated	1	STR	>4500cGy		22.325305	0	0															
+211	Female	<65	Unmethylated	0	STR	>4500cGy	0.8902292178	16.72143375	1	1															
+212	Male	<65	Unmethylated	1	GTR	>4500cGy		0.03016979998	0	1															
+213	Male	<65	Unmethylated	1	STR	>4500cGy		8.051474655	0	0															
+214	Male	<65	Methylated	2	GTR	>4500cGy	2.530326126	2.593437866	1	0															
+215	Male	<65	Unmethylated	1	STR	>4500cGy		13.20782266	0	1															
+216	Male	65+	Unmethylated	1	GTR	4000-4500cGy		0.3882981427	0	1															
+217	Female	65+	Methylated	1	GTR	>4500cGy		11.09848313	0	0															
+218	Male	<65	Unmethylated	0	GTR	>4500cGy	1.243280475	6.367462683	1	1															
+219	Male	<65	Unmethylated	2	STR	>4500cGy		1.013903939	0	1															
+220	Female	<65	Methylated	1	STR	>4500cGy		7.619994106	0	0															
+221	Male	65+	Methylated	1	Biopsy	>4500cGy		3.854196097	0	0															
+222	Male	<65	Unmethylated	1	STR	>4500cGy		4.960990621	0	1															
+223	Female	<65	Unmethylated	1	GTR	>4500cGy		21.37464258	0	0															
+224	Male	<65	Unmethylated	0	STR	>4500cGy		4.676996086	0	1															
+225	Male	<65	Unmethylated	2	STR	>4500cGy	2.964947923	7.761483258	1	1															
+226	Male	<65	Methylated	0	GTR	>4500cGy		1.5	0	0															
+227	Female	65+	Methylated	1	STR	4000-4500cGy		11.42865239	0	0															
+228	Male	<65	Methylated	2	Biopsy	>4500cGy		56.59329213	0	1															
+229	Male	<65	Unmethylated	0	Biopsy	>4500cGy		0.4481928924	0	1															
+230	Female	<65	Methylated	1	GTR	>4500cGy		0.5801350861	0	1															
+231	Female	65+	Methylated	2	STR	4000-4500cGy		7.529111884	0	1															
+232	Male	<65	Methylated	1	Biopsy	>4500cGy		15.5077404	0	1															
+233	Female	<65	Methylated	1	GTR	>4500cGy		18.93724962	0	0															
+234	Male	<65	Methylated	2	GTR	>4500cGy		11.23387554	0	0															
+235	Female	65+	Methylated	0	GTR	>4500cGy		5.261622773	0	0															
+236	Female	<65	Methylated	1	STR	>4500cGy		3.756794396	0	1															
+237	Male	65+	Methylated	1	GTR	4000-4500cGy		8.413470031	0	0															
+238	Female	<65	Methylated	1	STR	>4500cGy		8.851517647	0	0															
+239	Female	<65	Methylated	1	GTR	>4500cGy		14.43072753	0	0															
+240	Male	65+	Methylated	1	GTR	>4500cGy		11.02527217	0	1															
+241	Male	65+	Methylated	2	Biopsy	4000-4500cGy		1.973171267	0	0															
+242	Male	<65	Unmethylated	1	GTR	>4500cGy		7.868081106	0	0															
+243	Female	<65	Methylated	0	Biopsy	>4500cGy		5.426052498	0	1															
+244	Female	<65	Methylated	2	Biopsy	4000-4500cGy		62.21555995	0	1															
+245	Female	<65	Methylated	1	GTR	>4500cGy		3.702326356	0	0															
+246	Female	65+	Methylated	1	GTR	>4500cGy		6.440776641	0	0															
+247	Female	65+	Methylated	0	Biopsy	4000-4500cGy		1.5	0	0															
+248	Female	<65	Methylated	1	GTR	>4500cGy		11.60476495	0	1															
+249	Female	<65	Unmethylated	2	STR	>4500cGy		11.56465013	0	0															
+250	Male	<65	Methylated	1	STR	>4500cGy	2.978277274	11.99566903	1	1															
+251	Male	<65	Unmethylated	1	STR	>4500cGy		4.195619692	0	1															
+252	Male	65+	Unmethylated	1	STR	>4500cGy	1.296286774	1.908433977	1	1															
+253	Male	<65	Methylated	1	GTR	>4500cGy		27.32143564	0	1															
+254	Female	<65	Unmethylated	0	STR	>4500cGy		9.340473524	0	0															
+255	Female	65+	Methylated	0	GTR	>4500cGy		17.69721936	0	1															
+256	Male	<65	Unmethylated	0	STR	>4500cGy		7.076266633	0	1															
+257	Female	<65	Unmethylated	1	STR	>4500cGy		2.448114647	0	1															
+258	Female	<65	Unmethylated	1	STR	>4500cGy		15.17432219	0	0															
+259	Male	65+	Unmethylated	0	GTR	4000-4500cGy		0.5491453849	0	1															
+260	Female	<65	Unmethylated	0	GTR	Unknown	2.259003639	8.978481619	1	0															
+261	Female	<65	Methylated	0	STR	>4500cGy		7.030380019	0	0															
+262	Male	<65	Unmethylated	0	STR	<4000cGy		24.15690324	0	1															
+263	Male	65+	Methylated	2	Biopsy	4000-4500cGy		0.4794615055	0	1															
+264	Male	65+	Unmethylated	1	STR	>4500cGy		6.75483858	0	0															
+265	Male	<65	Methylated	0	STR	>4500cGy		10.00470521	0	0															
+266	Male	65+	Unmethylated	0	STR	>4500cGy		13.56925985	0	0															
+267	Female	65+	Unmethylated	1	STR	4000-4500cGy		4.865338075	0	1															
+268	Male	65+	Unmethylated	0	GTR	4000-4500cGy		6.274567118	0	0															
+269	Male	<65	Unmethylated	1	GTR	>4500cGy		3.796419532	0	0															
+270	Female	<65	Methylated	1	STR	>4500cGy		2.924446103	0	0															
+271	Male	<65	Methylated	1	GTR	>4500cGy		34.39980077	0	1															
+272	Female	<65	Unmethylated	1	GTR	>4500cGy		23.77773729	0	1															
+273	Male	65+	Methylated	0	STR	>4500cGy		1.661360394	0	1															
+274	Male	<65	Unmethylated	1	STR	>4500cGy		17.47953792	0	0															
+275	Male	<65	Methylated	1	Biopsy	>4500cGy		6.342225034	0	0															
+276	Female	65+	Methylated	0	Biopsy	>4500cGy		15.19681446	0	0															
+277	Male	<65	Unmethylated	0	STR	>4500cGy		4.927215427	0	1															
+278	Male	<65	Unmethylated	2	GTR	>4500cGy		1.135125719	0	1															
+279	Male	<65	Unmethylated	1	STR	>4500cGy		2.028279775	0	0															
+280	Female	<65	Methylated	1	Biopsy	<4000cGy		2.76535041	0	0															
+281	Female	<65	Methylated	1	GTR	>4500cGy		77.13998241	0	1															
+282	Female	65+	Unmethylated	0	GTR	>4500cGy		8.114550381	0	1															
+283	Male	65+	Unmethylated	0	STR	>4500cGy		1.169288202	0	1															
+284	Male	<65	Unmethylated	2	STR	>4500cGy		8.385209704	0	1															
+285	Female	<65	Methylated	2	STR	>4500cGy		63.30904306	0	0															
+286	Female	<65	Methylated	1	GTR	>4500cGy		76.25222901	0	1															
+287	Male	<65	Unmethylated	1	STR	>4500cGy		16.37039453	0	1															
+288	Female	<65	Methylated	1	GTR	>4500cGy		5.854392458	0	0															
+289	Male	65+	Unmethylated	1	STR	>4500cGy		21.76402279	0	1															
+290	Female	65+	Unmethylated	2	STR	4000-4500cGy		8.574321748	0	1															
+291	Male	65+	Unmethylated	2	STR	>4500cGy		3.761262894	0	1															
+292	Male	<65	Methylated	1	STR	>4500cGy		16.9203112	0	1															
+293	Male	<65	Methylated	1	GTR	<4000cGy	0.4104976696	8.969721286	1	0															
+294	Male	<65	Unmethylated	2	GTR	>4500cGy		11.52921835	0	1															
+295	Male	<65	Unmethylated	0	STR	>4500cGy		3.958926305	0	0															
+296	Female	<65	Methylated	0	GTR	>4500cGy		2.027559021	0	1															
+297	Male	<65	Methylated	2	STR	>4500cGy		6.995571859	0	1															
+298	Female	<65	Unmethylated	1	GTR	>4500cGy		22.59584401	0	1															
+299	Female	<65	Unmethylated	1	STR	<4000cGy		31.1609392	0	1															
+300	Male	<65	Unmethylated	0	GTR	>4500cGy	2.605901835	3.355431145	1	1															
+301	Female	65+	Methylated	2	Biopsy	4000-4500cGy		3.289586723	0	1															
+302	Female	<65	Unknown	1	Biopsy	>4500cGy		46.56998835	0	1															
+303	Male	<65	Unmethylated	0	GTR	>4500cGy		11.81302547	0	1															
+304	Female	65+	Methylated	0	GTR	4000-4500cGy		38.72482252	0	0															
+305	Female	<65	Unmethylated	2	STR	>4500cGy		3.919738345	0	1															
+306	Female	<65	Unmethylated	1	GTR	Unknown	0.069151788	12.5107978	1	1															
+307	Female	65+	Methylated	1	GTR	>4500cGy		10.97530017	0	0															
+308	Female	<65	Unmethylated	1	STR	>4500cGy		7.879106818	0	0															
+309	Male	<65	Methylated	1	STR	>4500cGy		16.77293996	0	1															
+310	Female	65+	Unmethylated	1	STR	>4500cGy		1.959780412	0	1															
+311	Male	65+	Methylated	1	GTR	4000-4500cGy		24.04815621	0	1															
+312	Female	<65	Methylated	1	GTR	>4500cGy		24.27325281	0	1															
+313	Male	65+	Methylated	0	GTR	>4500cGy	10.46338618	13.65493738	1	1															
+314	Female	65+	Methylated	1	STR	>4500cGy		10.74371101	0	1															
+315	Female	<65	Methylated	2	STR	<4000cGy		13.22888034	0	0															
+316	Male	<65	Methylated	1	STR	>4500cGy		22.50722151	0	1															
+317	Male	<65	Methylated	0	GTR	>4500cGy		1.78750419	0	1															
+318	Female	<65	Unmethylated	1	Biopsy	>4500cGy		3.8416687	0	1															
+319	Male	<65	Methylated	0	STR	>4500cGy	1.004800914	2.382335527	1	1															
+320	Male	<65	Methylated	1	Biopsy	>4500cGy		1.435517403	0	1															
+321	Male	65+	Unmethylated	1	STR	>4500cGy		3.201042514	0	0															
+322	Female	65+	Unmethylated	1	GTR	Unknown		2.695318037	0	1															
+323	Male	65+	Unmethylated	1	GTR	4000-4500cGy		3.05645144	0	1															
+324	Female	<65	Unmethylated	2	STR	>4500cGy	0.016764614	0.2034618505	1	1															
+325	Male	<65	Methylated	0	STR	>4500cGy	16.14615594	40.21675867	1	1															
+326	Male	<65	Methylated	1	STR	>4500cGy	2.070261787	8.031584259	1	0															
+327	Female	<65	Unmethylated	1	STR	Unknown		0.4522986023	0	1															
+328	Female	<65	Methylated	0	STR	>4500cGy		6.888371653	0	0															
+329	Male	65+	Methylated	0	STR	>4500cGy		5.055800266	0	1															
+330	Male	<65	Unmethylated	0	Biopsy	Unknown		1.551228051	0	1															
+331	Female	65+	Unmethylated	2	GTR	>4500cGy	0.07976695949	0.8070701748	1	1															
+332	Female	<65	Unmethylated	1	GTR	Unknown		0.8261952505	0	1															
+333	Female	65+	Methylated	0	GTR	Unknown		14.37022466	0	1															
+334	Female	<65	Unmethylated	2	STR	>4500cGy	15.72205041	16.66093324	1	1															
+335	Male	<65	Methylated	1	GTR	>4500cGy		74.59322381	0	1															
+336	Female	<65	Unmethylated	0	STR	>4500cGy		14.34956903	0	1															
+337	Male	<65	Methylated	1	GTR	>4500cGy		5.187854216	0	0															
+338	Male	<65	Methylated	2	STR	>4500cGy		17.2344833	0	0															
+339	Male	<65	Methylated	1	STR	>4500cGy		8.239086335	0	0															
+340	Female	<65	Methylated	0	GTR	>4500cGy	0.9509617962	10.74119506	1	1															
+341	Female	65+	Unmethylated	1	STR	>4500cGy	0.05035828594	1.887044286	1	1															
+342	Female	65+	Unmethylated	0	STR	>4500cGy		1.837084802	0	1															
+343	Female	65+	Methylated	1	GTR	4000-4500cGy		1.58715861	0	0															
+344	Female	<65	Methylated	1	GTR	>4500cGy		3.519734686	0	0															
+345	Male	65+	Unmethylated	2	STR	>4500cGy		1.331124049	0	1															
+346	Male	<65	Methylated	1	GTR	>4500cGy		0.8139793334	0	1															
+347	Male	<65	Unmethylated	1	GTR	>4500cGy		6.933284276	0	0															
+348	Female	<65	Unknown	Unknown	GTR	>4500cGy		12.47265732	0	1															
+349	Male	65+	Unmethylated	1	STR	>4500cGy		1.86452867	0	1															
+350	Male	<65	Unmethylated	1	GTR	>4500cGy		8.818511915	0	0															
+351	Male	<65	Unmethylated	2	GTR	<4000cGy		3.213206197	0	1															
+352	Male	<65	Unmethylated	0	GTR	>4500cGy		8.520845804	0	1															
+353	Male	<65	Unmethylated	1	STR	>4500cGy		10.7829996	0	0															
+354	Female	<65	Unmethylated	2	GTR	>4500cGy		24.88169178	0	0															
+355	Male	<65	Methylated	1	STR	>4500cGy	0.4318637653	8.817336568	1	1															
+356	Male	<65	Unmethylated	1	STR	>4500cGy		9.579519229	0	0															
+357	Male	<65	Unmethylated	2	Biopsy	>4500cGy		1.916975282	0	1															
+358	Male	65+	Methylated	1	Biopsy	<4000cGy		5.483282399	0	1															
+359	Male	<65	Unmethylated	2	STR	>4500cGy		0.1851302027	0	1															
+360	Male	<65	Unmethylated	1	STR	>4500cGy		7.88015083	0	0															
+361	Female	<65	Methylated	0	STR	>4500cGy		26.02630094	0	1															
+362	Female	<65	Unmethylated	2	GTR	>4500cGy		4.732365327	0	1															
+363	Male	65+	Methylated	2	Biopsy	>4500cGy	10.95778197	11.03885521	1	1															
+364	Female	<65	Unmethylated	2	GTR	>4500cGy		7.00049182	0	0															
+365	Male	<65	Methylated	1	Biopsy	Unknown		4.261167349	0	0															
+366	Male	<65	Unmethylated	1	GTR	>4500cGy		2.685185529	0	0															
+367	Female	65+	Unmethylated	2	STR	4000-4500cGy		14.36789309	0	1															
+368	Male	<65	Unmethylated	1	GTR	>4500cGy		10.35594565	0	1															
+369	Male	<65	Unmethylated	0	GTR	>4500cGy		6.992409971	0	0															
+370	Male	<65	Unmethylated	1	STR	>4500cGy		2.911039344	0	1															
+371	Male	<65	Unmethylated	0	GTR	>4500cGy		6.547195445	0	1															
+372	Female	<65	Unmethylated	1	GTR	>4500cGy		2.006078281	0	0															
+373	Male	<65	Unmethylated	1	STR	>4500cGy	2.656916186	3.478200367	1	1															
+374	Male	65+	Unmethylated	1	GTR	4000-4500cGy		14.74284162	0	1															
+375	Female	65+	Methylated	1	STR	4000-4500cGy		7.509179967	0	0															
+376	Female	<65	Methylated	1	GTR	>4500cGy		33.11698735	0	0															
+377	Female	<65	Methylated	1	STR	>4500cGy		23.62693679	0	0															
+378	Male	65+	Methylated	1	STR	>4500cGy	7.759827048	12.0731512	1	0															
+379	Female	65+	Unmethylated	1	STR	>4500cGy		2.275519371	0	1															
+380	Male	<65	Unmethylated	2	STR	>4500cGy		11.09293274	0	1															
+381	Female	65+	Methylated	2	GTR	4000-4500cGy		2.123558075	0	1															
+382	Male	65+	Unmethylated	2	Biopsy	<4000cGy		5.220100571	0	0															
+383	Female	<65	Unmethylated	0	GTR	>4500cGy		0.3511611162	0	1															
+384	Female	<65	Methylated	1	Biopsy	Unknown	0.5341620602	14.89922054	1	1															
+385	Female	65+	Methylated	1	STR	4000-4500cGy		10.72650208	0	0															
+386	Male	<65	Unmethylated	1	STR	>4500cGy		24.55873652	0	0															
+387	Female	<65	Unmethylated	1	STR	>4500cGy		1.5	0	0															
+388	Male	65+	Unmethylated	1	STR	<4000cGy		6.511841395	0	1															
+389	Male	<65	Methylated	0	STR	>4500cGy		4.143309379	0	1															
+390	Female	<65	Unmethylated	1	STR	>4500cGy	0.8145522127	1.15324672	1	1															
+391	Male	<65	Unmethylated	0	GTR	Unknown		17.85104886	0	1															
+392	Female	65+	Unmethylated	1	GTR	>4500cGy		1.585203789	0	1															
+393	Female	65+	Methylated	1	GTR	<4000cGy	2.639649361	12.46308966	1	0															
+394	Male	<65	Unmethylated	2	GTR	>4500cGy		1.5	0	0															
+395	Female	<65	Methylated	1	STR	>4500cGy		3.88373563	0	0															
+396	Female	<65	Methylated	0	GTR	>4500cGy		7.694930974	0	1															
+397	Male	<65	Unmethylated	0	GTR	>4500cGy		3.252457375	0	0															
+398	Female	65+	Methylated	1	STR	4000-4500cGy		10.41311781	0	0															
+399	Male	<65	Unmethylated	1	GTR	>4500cGy		10.55016271	0	1															
+400	Male	65+	Methylated	1	GTR	>4500cGy		18.65900463	0	1															
+401	Female	65+	Methylated	1	STR	<4000cGy		3.546260109	0	1															
+402	Male	<65	Unmethylated	1	GTR	>4500cGy		3.123723655	0	0															
+403	Male	<65	Methylated	1	STR	>4500cGy	2.005423747	2.632168132	1	1															
+404	Male	<65	Unmethylated	0	STR	Unknown		2.097454959	0	0															
+405	Male	65+	Methylated	1	STR	>4500cGy	1.591559245	5.040227575	1	0															
+406	Female	65+	Methylated	1	STR	>4500cGy		1.003164156	0	1															
+407	Male	<65	Unknown	2	GTR	>4500cGy		4.863416358	0	0															
+408	Male	65+	Unmethylated	0	STR	Unknown		9.953969288	0	0															
+409	Male	65+	Methylated	1	GTR	Unknown		32.66643908	0	1															
+410	Male	<65	Methylated	2	Biopsy	>4500cGy		0.08508462047	0	1															
+411	Male	65+	Unmethylated	2	GTR	4000-4500cGy	0.02051565338	0.1609712055	1	1															
+412	Male	<65	Unmethylated	0	GTR	>4500cGy		10.57537062	0	1															
+413	Male	<65	Unmethylated	0	STR	>4500cGy		10.42317877	0	0															
+414	Female	65+	Unmethylated	1	STR	4000-4500cGy	10.37571241	14.85311392	1	0															
+415	Female	<65	Methylated	1	STR	>4500cGy		0.4662325702	0	1															
+416	Male	<65	Unknown	1	STR	>4500cGy		5.404490175	0	1															
+417	Female	<65	Methylated	1	STR	>4500cGy		5.841255794	0	0															
+418	Female	<65	Unmethylated	1	GTR	>4500cGy		3.860258088	0	0															
+419	Female	<65	Unknown	1	STR	Unknown		28.16789051	0	0															
+420	Male	<65	Unknown	1	Biopsy	>4500cGy		11.29272434	0	0															
+421	Male	<65	Unmethylated	1	GTR	>4500cGy		1.426417315	0	1															
+422	Female	65+	Methylated	2	STR	>4500cGy		5.116111981	0	0															
+423	Male	<65	Unmethylated	1	Biopsy	>4500cGy		1.5	0	0															
+424	Female	<65	Unmethylated	2	STR	>4500cGy		0.4903712767	0	1															
+425	Male	65+	Unknown	1	GTR	Unknown		4.015058897	0	1															
+426	Male	<65	Methylated	1	STR	>4500cGy		67.40868669	0	1															
+427	Female	<65	Unknown	1	GTR	>4500cGy		32.0764203	0	1															
+428	Male	<65	Unmethylated	1	STR	>4500cGy	2.391504464	3.276884514	1	1															
+429	Female	65+	Methylated	0	STR	>4500cGy		6.644047851	0	0															
+430	Female	<65	Methylated	2	Biopsy	4000-4500cGy		4.639517383	0	1															
+431	Male	<65	Unmethylated	0	STR	>4500cGy	2.196408081	4.567433352	1	1															
+432	Male	<65	Methylated	2	GTR	>4500cGy		74.16195065	0	0															
+433	Female	65+	Methylated	1	GTR	4000-4500cGy		4.002209753	0	0															
+434	Female	65+	Unmethylated	1	GTR	>4500cGy		8.172885627	0	0															
+435	Female	<65	Unmethylated	2	GTR	>4500cGy		27.60992071	0	1															
+436	Female	65+	Methylated	1	GTR	>4500cGy		2.435554857	0	1															
+437	Male	65+	Methylated	1	GTR	>4500cGy		17.24095399	0	0															
+438	Male	<65	Unknown	0	STR	>4500cGy		34.59546441	0	1															
+439	Male	<65	Methylated	1	STR	>4500cGy		6.509339233	0	0															
+440	Male	65+	Unmethylated	0	STR	<4000cGy	1.756139857	9.302859588	1	0															
+441	Female	65+	Unmethylated	2	STR	4000-4500cGy		3.625054603	0	1															
+442	Female	<65	Methylated	2	STR	>4500cGy		9.437584184	0	0															
+443	Male	<65	Methylated	2	STR	4000-4500cGy		2.359313671	0	0															
+444	Male	<65	Unmethylated	0	STR	>4500cGy		11.35413688	0	0															
+445	Male	<65	Methylated	1	GTR	>4500cGy		0.8196700729	0	1															
+446	Male	65+	Methylated	1	STR	>4500cGy		19.39633198	0	1															
+447	Female	<65	Methylated	1	Biopsy	>4500cGy		14.26452252	0	1															
+448	Male	<65	Unmethylated	0	STR	>4500cGy	1.800587082	6.71258941	1	1															
+449	Male	65+	Unmethylated	1	GTR	>4500cGy		4.197478897	0	1															
+450	Female	65+	Methylated	1	GTR	>4500cGy		43.87288908	0	1															
+451	Male	<65	Methylated	0	STR	>4500cGy	1.30127121	2.252109077	1	0															
+452	Male	<65	Methylated	1	GTR	>4500cGy		8.212691621	0	1															
+453	Male	65+	Methylated	1	STR	>4500cGy		6.058356711	0	0															
+454	Male	<65	Methylated	1	GTR	>4500cGy		13.64833207	0	1															
+455	Male	<65	Methylated	0	STR	>4500cGy		8.564185284	0	1															
+456	Male	<65	Unmethylated	1	GTR	>4500cGy		24.70154396	0	1															
+457	Male	<65	Methylated	Unknown	GTR	Unknown		7.347626418	0	0															
+458	Male	<65	Unmethylated	1	GTR	>4500cGy	0.1315455696	28.36443037	1	1															
+459	Male	65+	Methylated	1	STR	>4500cGy		9.344643044	0	1															
+460	Male	<65	Unmethylated	0	GTR	>4500cGy		1.661392418	0	1															
+461	Male	65+	Unmethylated	1	GTR	4000-4500cGy		16.79272421	0	1															
+462	Male	<65	Unmethylated	1	STR	>4500cGy		10.92870149	0	0															
+463	Male	65+	Unmethylated	1	GTR	>4500cGy		7.806414831	0	1															
+464	Male	<65	Unknown	1	STR	<4000cGy		5.179852982	0	0															
+465	Male	65+	Unmethylated	1	STR	>4500cGy		1.959724048	0	1															
+466	Female	65+	Methylated	1	STR	4000-4500cGy	1.866651496	4.931560806	1	0															
+467	Male	<65	Unmethylated	0	GTR	>4500cGy		6.543940975	0	1															
+468	Male	<65	Methylated	2	Biopsy	>4500cGy		2.945650863	0	1															
+469	Female	65+	Unmethylated	0	GTR	>4500cGy		4.640248385	0	0															
+470	Male	<65	Unmethylated	1	GTR	>4500cGy		3.328062096	0	0															
+471	Male	<65	Unmethylated	2	STR	>4500cGy		3.048092822	0	0															
+472	Female	<65	Methylated	1	STR	>4500cGy	1.946187571	3.281294216	1	0															
+473	Male	<65	Methylated	1	GTR	>4500cGy		3.027466706	0	0															
+474	Female	<65	Unmethylated	2	Biopsy	>4500cGy		8.284056968	0	1															
+475	Male	<65	Unmethylated	1	GTR	>4500cGy		2.995397716	0	1															
+476	Male	<65	Unmethylated	1	STR	>4500cGy		8.560980211	0	1															
+477	Female	<65	Unmethylated	1	GTR	>4500cGy	8.595663352	14.4306236	1	1															
+478	Male	<65	Unmethylated	0	STR	>4500cGy		2.830857825	0	1															
+479	Female	<65	Methylated	1	GTR	>4500cGy		18.03214578	0	0															
+480	Female	65+	Methylated	1	GTR	4000-4500cGy		24.48649175	0	0															
+481	Male	65+	Methylated	0	GTR	>4500cGy		17.4701115	0	0															
+482	Male	<65	Methylated	0	GTR	>4500cGy		7.020838964	0	1															
+483	Male	<65	Unmethylated	1	GTR	>4500cGy	10.33605832	20.50613906	1	1															
+484	Male	<65	Unmethylated	1	Biopsy	>4500cGy	1.56797561	5.071295587	1	1															
+485	Female	<65	Unmethylated	1	GTR	>4500cGy		28.96906682	0	0															
+486	Female	65+	Methylated	1	Unknown	Unknown		5.640779283	0	0															
+487	Female	<65	Unmethylated	0	GTR	>4500cGy		28.21485939	0	0															
+488	Male	<65	Unmethylated	0	GTR	>4500cGy		21.39546449	0	1															
+489	Male	<65	Methylated	1	STR	Unknown		3.767680818	0	1															
+490	Female	<65	Unmethylated	2	STR	>4500cGy		0.4929162627	0	1															
+491	Female	<65	Unmethylated	2	GTR	>4500cGy		2.827806819	0	1															
+492	Male	<65	Unmethylated	0	STR	>4500cGy	1.992393747	12.81091084	1	1															
+493	Female	<65	Unmethylated	2	STR	>4500cGy		10.95210938	0	0															
+494	Male	<65	Methylated	1	STR	>4500cGy		21.4359104	0	0															
+495	Female	65+	Methylated	1	STR	<4000cGy		10.32275292	0	1															
+496	Female	<65	Unmethylated	1	STR	>4500cGy		3.574131252	0	0															
+497	Male	<65	Unknown	2	Biopsy	>4500cGy		1.73007713	0	0															
+498	Male	<65	Unknown	0	STR	>4500cGy		9.560502926	0	0															
+499	Female	<65	Methylated	2	STR	>4500cGy		8.707366766	0	0															
+500	Female	<65	Unmethylated	2	STR	>4500cGy		7.478292118	0	1															
+501	Male	65+	Unmethylated	2	STR	>4500cGy		1.615069056	0	1															
+502	Female	<65	Methylated	2	STR	>4500cGy		8.68667694	0	0															
+503	Male	<65	Methylated	2	GTR	>4500cGy		24.05495309	0	0															
+504	Male	<65	Unmethylated	1	GTR	>4500cGy		17.14882394	0	1															
+505	Male	<65	Unknown	1	STR	>4500cGy		6.588781905	0	0															
+506	Male	65+	Unknown	1	STR	4000-4500cGy	0.4166378457	2.228847317	1	1															
+507	Male	<65	Methylated	1	STR	>4500cGy		4.747996288	0	1															
+508	Male	65+	Unmethylated	1	GTR	>4500cGy	5.646342751	5.882281845	1	1															
+509	Female	65+	Unmethylated	2	STR	>4500cGy		2.446868778	0	0															
+510	Male	65+	Unmethylated	1	STR	>4500cGy		1.562834326	0	1															
+511	Male	<65	Methylated	0	STR	Unknown		6.076622313	0	0															
+512	Female	<65	Methylated	0	GTR	>4500cGy		16.08655956	0	0															
+513	Male	<65	Unmethylated	0	STR	>4500cGy		48.36082659	0	1															
+514	Male	<65	Unknown	1	STR	>4500cGy		6.112275258	0	1															
+515	Female	65+	Methylated	2	STR	<4000cGy		7.866861337	0	0															
+516	Male	<65	Unmethylated	0	STR	>4500cGy		2.51699642	0	0															
+517	Female	<65	Unknown	1	STR	Unknown		4.543340888	0	0															
+518	Male	<65	Unmethylated	1	STR	>4500cGy		12.03060942	0	1															
+519	Male	<65	Unmethylated	0	GTR	>4500cGy		5.918330504	0	0															
+520	Male	<65	Methylated	1	GTR	Unknown		7.456782862	0	0															
+521	Male	<65	Unknown	2	STR	>4500cGy		8.400039636	0	0															
+522	Male	<65	Unmethylated	0	GTR	>4500cGy		5.271663308	0	1															
+523	Male	<65	Unmethylated	1	STR	>4500cGy		32.30084253	0	1															
+524	Male	<65	Unmethylated	2	GTR	>4500cGy		20.42215071	0	1															
+525	Male	<65	Unmethylated	1	GTR	>4500cGy		36.59351707	0	1															
+526	Male	<65	Methylated	0	STR	>4500cGy		2.198954139	0	0															
+527	Male	<65	Methylated	2	GTR	>4500cGy		0.6913499288	0	1															
+528	Male	<65	Unmethylated	0	Biopsy	>4500cGy		17.23990695	0	1															
+529	Male	65+	Unmethylated	1	STR	>4500cGy	0.5830396187	3.872117448	1	1															
+530	Male	<65	Unmethylated	1	STR	>4500cGy	0.03581866612	10.29949213	1	1															
+531	Female	<65	Methylated	2	STR	>4500cGy		6.4511725	0	0															
+532	Female	<65	Methylated	2	GTR	>4500cGy		71.80407846	0	0															
+533	Male	<65	Methylated	1	STR	>4500cGy		3.919344757	0	0															
+534	Female	65+	Unmethylated	2	STR	4000-4500cGy		17.18780626	0	1															
+535	Female	<65	Methylated	0	GTR	>4500cGy		13.88744849	0	1															
+536	Male	<65	Unmethylated	1	Biopsy	>4500cGy		9.314322518	0	1															
+537	Male	65+	Unknown	2	STR	4000-4500cGy		4.693917933	0	1															
+538	Female	<65	Methylated	1	Biopsy	>4500cGy		1.960002113	0	1															
+539	Female	<65	Methylated	2	STR	>4500cGy		49.04243141	0	0															
+540	Male	65+	Methylated	1	STR	>4500cGy		2.783983037	0	0															
+541	Female	<65	Unmethylated	1	Biopsy	>4500cGy		6.678278682	0	0															
+542	Female	<65	Methylated	0	GTR	>4500cGy	1.905876675	8.703523491	1	0															
+543	Female	<65	Methylated	2	STR	>4500cGy		5.054201541	0	0															
+544	Male	65+	Methylated	1	STR	>4500cGy		8.169552974	0	1															
+545	Male	<65	Methylated	0	GTR	4000-4500cGy		1.79330806	0	0															
+546	Female	<65	Methylated	1	GTR	>4500cGy		81.69952201	0	1															
+547	Female	<65	Unknown	0	STR	>4500cGy	0.02279361398	5.622648796	1	1															
+548	Male	<65	Unknown	2	Biopsy	>4500cGy		14.28184993	0	0															
+549	Male	65+	Methylated	1	STR	4000-4500cGy		18.93697584	0	1															
+550	Male	65+	Methylated	1	STR	>4500cGy		8.53999769	0	0															
+551	Male	<65	Methylated	0	GTR	>4500cGy		8.167121713	0	0															
+552	Female	<65	Methylated	2	GTR	>4500cGy		0.1481325917	0	1															
+553	Female	<65	Methylated	0	GTR	>4500cGy		83.27412348	0	1															
+554	Male	<65	Methylated	0	Biopsy	>4500cGy	7.246095995	14.37901524	1	0															
+555	Female	65+	Unknown	0	STR	>4500cGy		4.018964188	0	0															
+556	Female	<65	Unknown	1	STR	>4500cGy		14.5177231	0	1															
+557	Female	<65	Unmethylated	0	STR	>4500cGy		4.329160141	0	1															
+558	Male	<65	Methylated	0	GTR	>4500cGy		61.91756579	0	0															
+559	Male	<65	Unmethylated	0	GTR	>4500cGy		8.938916637	0	1															
+560	Male	<65	Unmethylated	0	GTR	>4500cGy		2.934997861	0	1															
+561	Male	<65	Unmethylated	1	GTR	>4500cGy		7.844298294	0	0															
+562	Male	<65	Unmethylated	0	GTR	>4500cGy		2.578759129	0	1															
+563	Male	<65	Methylated	2	STR	>4500cGy		5.029246909	0	1															
+564	Female	<65	Unmethylated	2	GTR	>4500cGy	31.75251831	42.26240275	1	1															
+565	Male	<65	Methylated	1	STR	>4500cGy		1.389555649	0	1															
+566	Male	<65	Methylated	1	STR	>4500cGy		18.79002925	0	1															
+567	Female	<65	Unknown	1	STR	>4500cGy		16.13768421	0	0															
+568	Female	<65	Unmethylated	2	STR	>4500cGy		22.80409356	0	1															
+569	Male	65+	Unmethylated	1	GTR	>4500cGy		4.158954725	0	1															
+570	Male	<65	Methylated	0	STR	>4500cGy		1.5	0	0															
+571	Female	<65	Unmethylated	1	STR	>4500cGy		8.26292415	0	1															
+572	Male	<65	Unmethylated	0	GTR	>4500cGy		4.575319717	0	0															
+573	Male	65+	Unknown	2	Biopsy	4000-4500cGy		11.62937991	0	1															
+574	Male	<65	Unknown	1	Biopsy	>4500cGy		2.18154216	0	1															
+575	Male	<65	Methylated	1	STR	>4500cGy		10.58094712	0	0															
+576	Male	<65	Unmethylated	1	STR	>4500cGy		7.020703394	0	0															
+577	Female	65+	Methylated	2	GTR	4000-4500cGy		0.6432525829	0	1															
+578	Female	65+	Methylated	1	STR	>4500cGy		6.41650216	0	0															
+579	Female	65+	Methylated	1	GTR	4000-4500cGy		4.783456086	0	0															
+580	Male	<65	Unmethylated	2	STR	>4500cGy		5.075780297	0	1															
+581	Male	<65	Methylated	2	STR	4000-4500cGy		3.886144236	0	0															
+582	Female	65+	Unmethylated	0	GTR	4000-4500cGy	0.7979391882	3.119404376	1	1															
+583	Female	<65	Unmethylated	1	Biopsy	>4500cGy		6.530179642	0	1															
+584	Male	<65	Unknown	0	STR	>4500cGy		49.32002861	0	1															
+585	Female	<65	Methylated	1	STR	>4500cGy		12.47695848	0	1															
+586	Male	<65	Methylated	1	GTR	>4500cGy		2.169742544	0	0															
+587	Female	65+	Unknown	1	GTR	4000-4500cGy		10.76431533	0	1															
+588	Male	65+	Unknown	1	Biopsy	4000-4500cGy		3.911943022	0	0															
+589	Female	<65	Unmethylated	2	GTR	>4500cGy	0.8531202485	3.477301628	1	0															
+590	Female	<65	Methylated	0	GTR	>4500cGy		11.05172233	0	0															
+591	Male	<65	Methylated	2	STR	4000-4500cGy		12.38812956	0	1															
+592	Male	<65	Methylated	0	GTR	>4500cGy		40.97111211	0	0															
+593	Female	<65	Methylated	0	GTR	>4500cGy		13.55790211	0	0															
+594	Male	<65	Methylated	0	GTR	>4500cGy		0.6991133941	0	1															
+595	Female	<65	Unknown	1	Biopsy	>4500cGy		0.1357316836	0	1															
+596	Female	<65	Methylated	0	GTR	<4000cGy		9.337721598	0	0															
+597	Male	<65	Methylated	1	STR	>4500cGy		5.194652233	0	0															
+598	Male	<65	Unknown	1	Biopsy	>4500cGy		3.426705617	0	0															
+599	Female	65+	Methylated	0	GTR	>4500cGy		6.834868086	0	0															
+600	Female	65+	Unknown	2	STR	>4500cGy		10.84252351	0	1															
+601	Male	65+	Unknown	0	GTR	>4500cGy		2.254832826	0	1															
+602	Male	<65	Unmethylated	1	GTR	>4500cGy	2.637401542	3.989891675	1	1															
+603	Male	65+	Unmethylated	2	GTR	>4500cGy		12.23221168	0	1															
+604	Male	<65	Unknown	2	STR	4000-4500cGy		9.033963973	0	0															
+605	Female	<65	Methylated	0	STR	>4500cGy	0.6662628824	14.18429247	1	1															
+606	Female	<65	Unmethylated	1	STR	>4500cGy	0.4221662446	8.699856088	1	0															
+607	Male	<65	Unknown	1	STR	>4500cGy		6.262365641	0	0															
+608	Female	<65	Methylated	0	STR	>4500cGy		6.998236392	0	1															
+609	Male	<65	Unknown	2	STR	>4500cGy	1.759790156	6.111744732	1	0															
+610	Female	<65	Unknown	1	STR	>4500cGy		35.93083653	0	1															
+611	Female	<65	Unknown	0	Biopsy	>4500cGy		1.776785103	0	1															
+612	Male	<65	Unknown	0	STR	>4500cGy		18.82648768	0	0															
+613	Female	<65	Unknown	1	GTR	>4500cGy		4.479533964	0	1															
+614	Male	<65	Unknown	1	STR	>4500cGy		8.18374596	0	1															
+615	Male	<65	Unknown	1	STR	>4500cGy		7.665488039	0	0															
+616	Female	65+	Unknown	0	STR	4000-4500cGy		20.71119021	0	0															
+617	Male	<65	Methylated	2	GTR	4000-4500cGy		3.056708423	0	0															
+618	Male	65+	Unknown	2	Biopsy	4000-4500cGy		1.735633024	0	1															
+619	Male	<65	Methylated	1	STR	>4500cGy		9.444439412	0	0															
+620	Male	<65	Unmethylated	2	GTR	>4500cGy		4.117687969	0	1															
+621	Female	<65	Unknown	0	GTR	>4500cGy		5.299235542	0	0															
+622	Male	<65	Unknown	2	Biopsy	>4500cGy		2.741406743	0	1															
+623	Male	<65	Unmethylated	0	STR	>4500cGy		55.70403869	0	1															
+624	Male	65+	Methylated	0	STR	4000-4500cGy		19.13081372	0	1															
+625	Female	<65	Unmethylated	2	Biopsy	>4500cGy		3.061182523	0	0															
+626	Male	<65	Unmethylated	1	STR	>4500cGy		0.4876116868	0	1															
+627	Female	<65	Unknown	0	GTR	>4500cGy		5.150330182	0	0															
+628	Male	<65	Unknown	1	STR	>4500cGy		2.824388718	0	0															
+629	Male	<65	Unmethylated	0	STR	>4500cGy		3.67410749	0	1															
+630	Male	<65	Unmethylated	1	STR	>4500cGy	2.048659718	2.195531427	1	0															
+631	Female	65+	Unknown	1	GTR	>4500cGy	6.607568042	7.201853568	1	1															
+632	Female	65+	Unmethylated	1	GTR	4000-4500cGy		13.76818411	0	1															
+633	Male	<65	Unmethylated	2	GTR	>4500cGy		12.72289843	0	1															
+634	Male	<65	Unknown	1	Biopsy	4000-4500cGy		4.118650341	0	0															
+635	Male	<65	Unknown	1	GTR	>4500cGy		13.41544399	0	1															
+636	Female	<65	Unknown	1	STR	>4500cGy		18.34730767	0	0															
+637	Female	65+	Unknown	1	Biopsy	>4500cGy		0.4130709566	0	1															
+638	Female	<65	Unmethylated	1	GTR	>4500cGy		12.31053401	0	1															
+639	Male	<65	Unknown	0	GTR	>4500cGy		8.05783202	0	0															
+640	Male	65+	Unknown	1	Biopsy	4000-4500cGy		4.950851145	0	1															
+641	Male	<65	Methylated	0	GTR	>4500cGy	7.495960967	9.947305662	1	0															
+642	Male	<65	Unknown	1	STR	>4500cGy		30.33047996	0	0															
+643	Female	65+	Unmethylated	2	GTR	4000-4500cGy	1.299777417	1.772456151	1	1															
+644	Male	<65	Unknown	2	STR	>4500cGy		8.813809037	0	0															
+645	Male	<65	Unknown	2	Biopsy	>4500cGy		3.849000343	0	1															
+646	Male	<65	Unknown	2	Biopsy	>4500cGy		5.3309548	0	0															
+647	Male	65+	Unmethylated	1	Biopsy	>4500cGy		3.952450804	0	1															
+648	Female	<65	Unmethylated	2	STR	4000-4500cGy		3.311090494	0	0															
+649	Male	<65	Unknown	2	Biopsy	4000-4500cGy		2.810822414	0	1															
+650	Male	<65	Unknown	1	STR	>4500cGy		0.7780596622	0	1															
+651	Male	<65	Unknown	1	GTR	>4500cGy		9.47552002	0	0															
+652	Male	65+	Unknown	2	Biopsy	4000-4500cGy	7.91038523	8.286041597	1	1															
+653	Male	<65	Unknown	1	STR	>4500cGy		8.269239518	0	1															
+654	Male	65+	Unknown	2	Biopsy	<4000cGy		1.844169649	0	1															
+655	Male	<65	Unmethylated	1	GTR	<4000cGy		9.855530606	0	1															
+656	Female	<65	Methylated	2	STR	>4500cGy		28.36995953	0	1															
+657	Female	<65	Methylated	1	STR	>4500cGy		22.22854827	0	1															
+658	Female	<65	Methylated	1	GTR	>4500cGy		12.07800467	0	0															
+659	Female	<65	Unknown	2	Biopsy	4000-4500cGy		17.92595107	0	1															
+660	Female	<65	Unknown	2	STR	>4500cGy	10.59240494	11.05791004	1	1															
+661	Male	<65	Unknown	1	STR	>4500cGy		2.147155283	0	1															
+662	Male	<65	Unknown	1	Biopsy	4000-4500cGy		7.49107167	0	1															
+663	Male	65+	Unknown	2	Biopsy	4000-4500cGy		6.930458389	0	1															
+664	Female	<65	Unknown	2	STR	>4500cGy		16.82196565	0	0															
+665	Male	65+	Unknown	1	STR	4000-4500cGy		3.286038722	0	1															
+666	Male	65+	Unknown	1	Biopsy	4000-4500cGy		4.338835488	0	1															
+667	Male	65+	Unknown	1	Biopsy	4000-4500cGy	2.63313726	3.270955022	1	1															
+668	Female	<65	Unknown	1	Biopsy	>4500cGy		7.26228166	0	1															
+669	Male	<65	Unknown	0	STR	>4500cGy		0.9232949493	0	1															
+670	Male	<65	Unknown	1	Biopsy	>4500cGy		3.445804873	0	1															
+671	Female	<65	Methylated	1	STR	>4500cGy		4.448988573	0	0															
+672	Male	65+	Unknown	0	GTR	4000-4500cGy		5.751912949	0	0															
+673	Male	<65	Unmethylated	0	GTR	>4500cGy	13.27595932	16.56811085	1	0															
+674	Male	65+	Methylated	1	GTR	>4500cGy		1.964516399	0	1															
+675	Male	65+	Unknown	1	Biopsy	4000-4500cGy		2.49038241	0	0															
+676	Male	<65	Methylated	1	STR	>4500cGy		13.6673604	0	0															
+677	Male	<65	Unknown	1	STR	>4500cGy		4.080951793	0	0															
+678	Female	<65	Unmethylated	0	Biopsy	>4500cGy		48.40674083	0	1															
+679	Male	<65	Unknown	1	STR	>4500cGy		37.15055773	0	0															
+680	Male	<65	Unknown	1	STR	>4500cGy		2.687259136	0	1															
+681	Male	<65	Unknown	0	GTR	>4500cGy		1.5061508	0	1															
+682	Male	<65	Methylated	2	GTR	>4500cGy		3.657784566	0	1															
+683	Female	<65	Unknown	2	STR	>4500cGy		3.193055116	0	1															
+684	Male	65+	Unknown	2	Biopsy	4000-4500cGy		13.43546338	0	1															
+685	Female	<65	Unmethylated	2	STR	>4500cGy		21.44177926	0	1															
+686	Female	65+	Unknown	2	Biopsy	4000-4500cGy		2.953063374	0	1															
+687	Female	<65	Unknown	2	STR	Unknown		8.816098005	0	1															
+688	Male	65+	Unknown	2	STR	4000-4500cGy		22.8050719	0	1															
+689	Female	<65	Unmethylated	2	Biopsy	>4500cGy		5.016172984	0	1															
+690	Female	65+	Methylated	1	STR	>4500cGy		1.121055696	0	1															
+691	Male	65+	Unmethylated	2	STR	>4500cGy		13.84562571	0	1															
+692	Male	<65	Unknown	0	GTR	>4500cGy		1.5	0	0															
+693	Female	65+	Methylated	2	GTR	>4500cGy		1.616019312	0	1															
+694	Female	<65	Unmethylated	0	STR	>4500cGy		16.53232839	0	1															
+695	Male	65+	Methylated	2	STR	>4500cGy		9.713517798	0	0															
+696	Male	65+	Methylated	0	GTR	>4500cGy		6.513091278	0	0															
+697	Female	<65	Unknown	2	STR	>4500cGy		1.870934931	0	0															
+698	Female	65+	Unknown	1	Biopsy	4000-4500cGy		6.711860095	0	0															
+699	Female	<65	Methylated	0	STR	>4500cGy	0.9348675822	5.595467695	1	0															
+700	Female	<65	Unknown	2	STR	>4500cGy		4.564488668	0	1															
+701	Male	65+	Unknown	1	Biopsy	4000-4500cGy	1.823097986	2.303697236	1	1															
+702	Male	<65	Methylated	1	STR	>4500cGy	8.018152839	9.339340226	1	0															
+703	Male	65+	Unknown	2	Biopsy	>4500cGy		12.6910223	0	1															
+704	Male	<65	Unknown	2	STR	>4500cGy		2.85027161	0	0															
+705	Female	<65	Methylated	0	STR	>4500cGy		3.034945706	0	0															
+706	Female	<65	Unknown	2	STR	>4500cGy		31.60672059	0	1															
+707	Female	<65	Unknown	1	STR	4000-4500cGy		7.860848172	0	1															
+708	Female	65+	Unknown	1	Biopsy	>4500cGy		10.04280208	0	1															
+709	Male	<65	Methylated	0	GTR	>4500cGy	3.001710779	6.486666968	1	1															
+710	Male	<65	Unknown	1	STR	>4500cGy		8.212150149	0	0															
+711	Male	<65	Unknown	0	STR	>4500cGy		5.744351131	0	0															
+712	Male	<65	Methylated	0	STR	>4500cGy		35.58108505	0	0															
+713	Female	65+	Unknown	2	Biopsy	4000-4500cGy		3.658213794	0	1															
+714	Male	<65	Unknown	2	STR	>4500cGy		7.923234144	0	0															
+715	Male	<65	Methylated	0	STR	>4500cGy		11.13156909	0	0															
+716	Male	<65	Unknown	2	Biopsy	4000-4500cGy		14.78572722	0	1															
+717	Female	<65	Unmethylated	1	STR	>4500cGy		41.42207996	0	1															
+718	Male	<65	Methylated	2	STR	>4500cGy		7.929982972	0	1															
+719	Female	<65	Methylated	0	GTR	>4500cGy		15.78168873	0	1															
+720	Male	65+	Unmethylated	1	GTR	>4500cGy		7.095265197	0	0															
+721	Male	<65	Unknown	1	Biopsy	>4500cGy		19.82009799	0	1															
+722	Male	<65	Unmethylated	1	STR	4000-4500cGy		11.29140816	0	0															
+723	Male	65+	Unmethylated	0	STR	>4500cGy	2.396459762	6.578637656	1	1															
+724	Male	65+	Unknown	2	GTR	4000-4500cGy		5.485583453	0	1															
+725	Female	<65	Methylated	0	STR	>4500cGy		20.82471993	0	0															
+726	Male	<65	Methylated	1	STR	>4500cGy		7.059280506	0	0															
+727	Female	<65	Unknown	0	Biopsy	>4500cGy		5.075396072	0	0															
+728	Male	<65	Unknown	1	STR	>4500cGy		3.343246794	0	1															
+729	Male	<65	Unknown	1	Biopsy	4000-4500cGy		8.163997061	0	0															
+730	Male	<65	Unknown	0	STR	>4500cGy		68.04043152	0	0															
+731	Female	<65	Methylated	2	STR	>4500cGy		26.9539146	0	0															
+732	Female	<65	Unmethylated	0	GTR	>4500cGy		7.979093166	0	0															
+733	Male	65+	Methylated	0	STR	>4500cGy		12.59598355	0	0															
+734	Female	65+	Methylated	0	STR	>4500cGy		36.14037833	0	1															
+735	Male	<65	Unmethylated	1	STR	>4500cGy		16.81790366	0	1															
+736	Male	<65	Unmethylated	2	STR	>4500cGy		8.077918326	0	0															
+737	Female	65+	Unknown	1	STR	4000-4500cGy		1.564502808	0	1															
+738	Male	65+	Unknown	2	STR	4000-4500cGy		2.63942439	0	1															
+739	Male	<65	Unmethylated	0	GTR	>4500cGy		50.58261901	0	1															
+740	Female	<65	Unknown	2	GTR	<4000cGy		7.683352433	0	1															
+741	Female	65+	Unknown	2	Biopsy	4000-4500cGy		6.448188755	0	0															
+742	Male	<65	Unmethylated	1	STR	>4500cGy		9.17450929	0	0															
+743	Male	65+	Unknown	0	STR	>4500cGy		3.618801377	0	0															
+744	Female	<65	Methylated	0	GTR	>4500cGy		7.879816839	0	0															
+745	Male	<65	Unknown	1	Biopsy	>4500cGy		8.061255068	0	0															
+746	Male	<65	Methylated	0	STR	>4500cGy		12.14402801	0	0															
+747	Male	65+	Methylated	1	STR	>4500cGy		18.36259356	0	1															
+748	Male	<65	Unknown	1	Biopsy	4000-4500cGy		1.265452907	0	1															
+749	Male	65+	Unknown	1	STR	>4500cGy		0.7276749551	0	1															
+750	Male	<65	Unmethylated	1	STR	>4500cGy		3.700805981	0	0															
+751	Male	65+	Methylated	1	Biopsy	>4500cGy		18.64418977	0	1															
+752	Male	<65	Unknown	1	Biopsy	>4500cGy	6.044314139	17.85918301	1	1															
+753	Male	<65	Unknown	1	Biopsy	>4500cGy		12.19510914	0	0															
+754	Male	65+	Unknown	1	GTR	>4500cGy		10.44455068	0	1															
+755	Male	<65	Methylated	0	GTR	>4500cGy		18.67396923	0	0															
+756	Female	65+	Unknown	1	Biopsy	>4500cGy		2.133937449	0	1															
+757	Male	<65	Unknown	1	STR	>4500cGy		6.845225888	0	0															
+758	Male	<65	Methylated	0	GTR	>4500cGy		1.457307875	0	1															
+759	Female	<65	Unknown	2	STR	4000-4500cGy	1.169505161	1.599240525	1	0															
+760	Male	65+	Methylated	0	STR	>4500cGy		6.702884498	0	1															
+761	Male	65+	Unknown	1	Biopsy	4000-4500cGy		4.209040436	0	0															
+762	Female	65+	Unknown	0	STR	>4500cGy		1.896607385	0	0															
+763	Female	65+	Unknown	2	Biopsy	4000-4500cGy	5.828061626	12.43593913	1	1															
+764	Male	65+	Unmethylated	1	STR	>4500cGy		0.09446614704	0	1															
+765	Female	<65	Methylated	2	STR	>4500cGy		1.889968491	0	0															
+766	Female	65+	Unknown	0	Biopsy	4000-4500cGy		7.008561385	0	1															
+767	Male	<65	Methylated	1	STR	>4500cGy		16.75803087	0	0															
+768	Female	<65	Unknown	0	STR	4000-4500cGy		2.368216419	0	1															
+769	Female	<65	Unmethylated	2	Biopsy	<4000cGy		2.756085749	0	1															
+770	Male	<65	Methylated	2	STR	>4500cGy		2.409312814	0	1															
+771	Female	65+	Methylated	2	Biopsy	>4500cGy		4.772163724	0	1															
+772	Female	<65	Methylated	1	Biopsy	>4500cGy		15.98091092	0	0															
+773	Male	<65	Methylated	2	STR	>4500cGy		53.96720456	0	1															
+774	Female	65+	Methylated	1	STR	>4500cGy	0.01515218497	0.5953490455	1	1															
+775	Male	65+	Unknown	1	Biopsy	Unknown		0.9093176855	0	1															
+776	Female	<65	Unmethylated	0	STR	>4500cGy		15.89596123	0	1															
+777	Male	<65	Methylated	1	STR	>4500cGy		6.550816207	0	1															
+778	Male	<65	Methylated	2	STR	>4500cGy		7.762652183	0	0															
+779	Male	<65	Unknown	0	STR	<4000cGy		11.63338654	0	0															
+780	Male	<65	Unknown	1	Biopsy	>4500cGy	0.0007194314914	1.724022824	1	0															
+781	Male	<65	Unmethylated	0	GTR	>4500cGy	4.242166435	5.676200497	1	0															
+782	Male	65+	Methylated	2	STR	>4500cGy		8.526711369	0	1															
+783	Male	65+	Unknown	1	Biopsy	4000-4500cGy		7.918328057	0	1															
+784	Female	<65	Unknown	2	Biopsy	4000-4500cGy		9.186347849	0	1															
+785	Male	<65	Methylated	0	STR	>4500cGy		7.75769015	0	1															
+786	Male	<65	Methylated	1	STR	>4500cGy		4.931661879	0	0															
+787	Male	<65	Unmethylated	0	STR	>4500cGy		11.6724644	0	0															
+788	Male	<65	Unmethylated	2	Biopsy	<4000cGy		0.5569313397	0	1															
+789	Male	<65	Methylated	1	STR	>4500cGy		8.715901083	0	0															
+790	Male	<65	Unmethylated	0	GTR	>4500cGy		3.755584701	0	1															
+791	Male	65+	Methylated	0	Biopsy	>4500cGy		6.421078569	0	0															
+792	Male	<65	Unknown	0	STR	>4500cGy		10.8376854	0	1															
+793	Male	<65	Unmethylated	1	Biopsy	>4500cGy	1.696041925	13.3186072	1	1															
+794	Male	<65	Unknown	1	STR	>4500cGy		24.39051991	0	1															
+795	Female	<65	Unmethylated	1	STR	>4500cGy		13.53835232	0	0															
+796	Male	<65	Unknown	1	STR	>4500cGy		2.214432662	0	1															
+797	Male	<65	Unmethylated	0	STR	>4500cGy		8.850946624	0	0															
+798	Female	<65	Unknown	1	Biopsy	>4500cGy		4.487635692	0	1															
+799	Male	<65	Unknown	1	STR	>4500cGy	21.54145893	30.73297476	1	0															
+800	Female	<65	Unknown	1	STR	>4500cGy		25.38713448	0	1															
+801	Male	<65	Unknown	2	STR	>4500cGy		10.0666654	0	1															
+802	Male	<65	Unknown	2	STR	>4500cGy		19.27241222	0	1															
+803	Male	65+	Unknown	0	STR	4000-4500cGy	0.3821188298	17.98274998	1	0															
+804	Male	<65	Unknown	1	STR	>4500cGy		14.56277219	0	0															
+805	Male	<65	Unmethylated	1	STR	>4500cGy		3.943484092	0	0															
+806	Male	65+	Unknown	1	Biopsy	4000-4500cGy		6.189992964	0	1															
+807	Male	<65	Methylated	0	Biopsy	<4000cGy		4.140632257	0	0															
+808	Female	65+	Methylated	2	Biopsy	>4500cGy	1.428766584	2.269441347	1	1															
+809	Male	<65	Unknown	0	STR	>4500cGy		3.819431069	0	0															
+810	Female	<65	Unmethylated	2	STR	>4500cGy		2.999173501	0	1															
+811	Male	65+	Unknown	0	STR	4000-4500cGy		2.939843528	0	1															
+812	Female	<65	Unmethylated	0	STR	>4500cGy		3.952157756	0	0															
+813	Female	<65	Unknown	1	Unknown	>4500cGy		10.81376566	0	0															
+814	Male	<65	Methylated	0	STR	>4500cGy	1.592766617	5.394051036	1	0															
+815	Female	65+	Unknown	1	Biopsy	4000-4500cGy		7.824930772	0	1															
+816	Female	65+	Unmethylated	1	Biopsy	4000-4500cGy		2.90495536	0	1															
+817	Male	<65	Unmethylated	1	Biopsy	>4500cGy	2.870851402	3.884624106	1	1															
+818	Male	65+	Unknown	2	Biopsy	4000-4500cGy		0.9462065508	0	1															
+819	Male	<65	Unmethylated	1	STR	<4000cGy		17.63414655	0	0															
+820	Male	<65	Methylated	2	STR	4000-4500cGy		12.30561922	0	0															
+821	Male	<65	Unmethylated	2	STR	4000-4500cGy		2.994700265	0	1															
+822	Male	<65	Unmethylated	1	STR	>4500cGy		18.07128353	0	0															
+823	Female	65+	Unknown	2	GTR	4000-4500cGy		9.140036324	0	0															
+824	Male	<65	Methylated	1	GTR	>4500cGy		3.729980471	0	0															
+825	Female	<65	Unmethylated	2	STR	>4500cGy	7.904833857	12.00299912	1	0															
+826	Male	65+	Methylated	2	STR	>4500cGy		14.11973713	0	1															
+827	Male	<65	Methylated	1	STR	>4500cGy		5.182579969	0	0															
+828	Male	65+	Unknown	2	Biopsy	>4500cGy		2.362787026	0	1															
+829	Female	<65	Methylated	0	STR	>4500cGy		27.7228174	0	0															
+830	Male	<65	Unknown	1	Biopsy	>4500cGy		11.67267745	0	1															
+831	Male	<65	Methylated	0	STR	>4500cGy		8.889911226	0	0															
+832	Male	<65	Unmethylated	1	STR	>4500cGy		0.5845543227	0	1															
+833	Male	<65	Unmethylated	0	Biopsy	4000-4500cGy		4.176153397	0	1															
+834	Female	<65	Methylated	1	STR	>4500cGy		4.066839817	0	1															
+835	Male	65+	Methylated	0	GTR	>4500cGy		1.762619997	0	1															
+836	Male	65+	Unknown	1	GTR	4000-4500cGy		4.537013143	0	1															
+837	Female	65+	Unknown	1	Biopsy	>4500cGy		1.640593757	0	1															
+838	Male	65+	Unknown	1	GTR	>4500cGy		3.44664266	0	1															
+839	Male	<65	Unknown	1	Biopsy	>4500cGy	1.436032402	6.081076165	1	1															
+840	Male	<65	Unknown	0	STR	>4500cGy		4.409086552	0	1															
+841	Male	65+	Unknown	2	STR	>4500cGy	2.080522484	3.010959286	1	1															
+842	Male	<65	Unmethylated	Unknown	STR	>4500cGy		1.996406441	0	1															
+843	Male	<65	Unknown	0	STR	>4500cGy		5.286998054	0	1															
+844	Male	<65	Methylated	Unknown	GTR	>4500cGy		17.30496417	0	0															
+845	Female	65+	Methylated	1	STR	>4500cGy		7.356922214	0	0															
+846	Female	<65	Unmethylated	2	STR	>4500cGy		0.8395485943	0	1															
+847	Male	65+	Unmethylated	2	GTR	>4500cGy		7.507096429	0	1															
+848	Female	<65	Methylated	1	GTR	>4500cGy		15.7831045	0	0															
+849	Male	<65	Methylated	1	STR	>4500cGy		0.4081086539	0	1															
+850	Male	<65	Unmethylated	1	GTR	>4500cGy		9.35556175	0	0															
+851	Female	<65	Unknown	1	GTR	>4500cGy	2.048452585	2.141099105	1	1															
+852	Male	<65	Unknown	1	STR	>4500cGy		8.466409014	0	0															
+853	Male	<65	Unknown	0	STR	>4500cGy		22.68645011	0	1															
+854	Female	65+	Unknown	1	Biopsy	4000-4500cGy	0.193437657	15.25195353	1	1															
+855	Female	65+	Methylated	Unknown	STR	>4500cGy		1.5	0	0															
+856	Male	<65	Unknown	1	GTR	>4500cGy		11.10399951	0	1															
+857	Male	<65	Unmethylated	2	STR	>4500cGy		2.957129118	0	1															
+858	Male	65+	Unmethylated	1	GTR	4000-4500cGy		3.531035831	0	1															
+859	Male	<65	Unmethylated	1	GTR	>4500cGy		0.341476485	0	1															
+860	Female	<65	Unmethylated	1	STR	>4500cGy		5.625219219	0	0															
+861	Male	<65	Unmethylated	1	GTR	>4500cGy		7.750922064	0	1															
+862	Female	<65	Unmethylated	2	STR	>4500cGy		15.97811101	0	0															
+863	Male	<65	Unmethylated	2	STR	>4500cGy		10.83950945	0	1															
+864	Male	<65	Methylated	1	Biopsy	<4000cGy		10.59080799	0	1															
+865	Male	<65	Unmethylated	1	GTR	>4500cGy		0.3697103137	0	1															
+866	Male	65+	Unknown	1	Biopsy	4000-4500cGy		0.2767289025	0	1															
+867	Female	<65	Unknown	2	STR	Unknown		22.91071456	0	0															
+868	Male	<65	Methylated	1	Biopsy	<4000cGy		12.46400489	0	0															
+869	Male	<65	Methylated	1	STR	>4500cGy		3.790162852	0	1															
+870	Male	<65	Unmethylated	0	Biopsy	4000-4500cGy		4.154841693	0	1															
+871	Female	<65	Unmethylated	0	GTR	>4500cGy		5.658483293	0	0															
+872	Male	<65	Unmethylated	2	STR	>4500cGy	0.4538360223	4.544663834	1	1															
+873	Male	<65	Unmethylated	0	GTR	>4500cGy		4.922838908	0	0															
+874	Male	<65	Unmethylated	0	GTR	>4500cGy		2.672093675	0	1															
+875	Male	<65	Unmethylated	0	Biopsy	>4500cGy		1.347758869	0	1															
+876	Female	<65	Unknown	0	STR	>4500cGy		56.21382669	0	1															
+877	Male	<65	Unmethylated	2	STR	>4500cGy		3.515699464	0	0															
+878	Male	65+	Methylated	1	STR	>4500cGy		12.89346115	0	0															
+879	Male	65+	Unmethylated	1	STR	>4500cGy		7.65740392	0	1															
+880	Male	65+	Unknown	0	STR	>4500cGy	0.05324493758	9.086945577	1	1															
+881	Female	<65	Methylated	0	STR	>4500cGy		16.20757377	0	0															
+882	Male	<65	Unknown	1	STR	>4500cGy	2.169963768	3.580049709	1	0															
+883	Male	<65	Unknown	2	Biopsy	>4500cGy	1.129777373	6.116957157	1	1															
+884	Male	65+	Unknown	0	Biopsy	>4500cGy	3.489944074	5.940737317	1	1															
+885	Female	<65	Unmethylated	0	STR	>4500cGy		26.51749283	0	0															
+886	Male	<65	Unknown	0	STR	>4500cGy		21.44331806	0	1															
+887	Male	<65	Unmethylated	0	Biopsy	>4500cGy		4.796594344	0	0															
+888	Male	65+	Unmethylated	2	Biopsy	4000-4500cGy		6.325736428	0	0															
+889	Male	<65	Methylated	1	STR	>4500cGy		8.241906561	0	0															
+890	Male	<65	Unknown	0	Biopsy	>4500cGy		27.99210412	0	0															
+891	Male	<65	Methylated	0	STR	>4500cGy		0.9390116481	0	1															
+892	Female	<65	Methylated	0	STR	>4500cGy		9.334326187	0	1															
+893	Female	65+	Methylated	Unknown	STR	>4500cGy		65.7001863	0	0															
+894	Female	<65	Unmethylated	1	STR	>4500cGy		10.16378758	0	1															
+895	Male	<65	Unknown	2	STR	>4500cGy		58.95077843	0	0															
+896	Male	<65	Unknown	2	Biopsy	>4500cGy		2.858279154	0	1															
+897	Male	<65	Methylated	0	STR	>4500cGy		9.241672727	0	1															
+898	Male	<65	Unmethylated	1	STR	>4500cGy		60.97933377	0	1															
+899	Female	65+	Methylated	2	STR	4000-4500cGy		3.352011022	0	1															
+900	Female	<65	Unmethylated	1	STR	>4500cGy		2.618709022	0	1															
+901	Male	65+	Methylated	1	Biopsy	>4500cGy		3.666075921	0	0															
+902	Male	<65	Unmethylated	1	STR	>4500cGy		6.239357631	0	1															
+903	Male	<65	Methylated	0	STR	>4500cGy		11.79617428	0	0															
+904	Female	<65	Unmethylated	1	STR	>4500cGy		18.6271609	0	1															
+905	Male	<65	Methylated	2	STR	>4500cGy		6.275696751	0	1															
+906	Female	<65	Methylated	2	GTR	>4500cGy		13.60344683	0	1															
+907	Male	65+	Unknown	2	Biopsy	4000-4500cGy		0.5598351055	0	1															
+908	Female	<65	Unknown	0	GTR	>4500cGy		19.32557149	0	1															
+909	Male	<65	Unmethylated	0	STR	>4500cGy		47.32649293	0	1															
+910	Male	<65	Methylated	1	GTR	>4500cGy		11.34411996	0	1															
+911	Female	<65	Methylated	2	STR	>4500cGy		2.529851731	0	0															
+912	Male	<65	Unmethylated	0	STR	>4500cGy		5.930443191	0	1															
+913	Female	<65	Unmethylated	1	STR	>4500cGy		6.23015792	0	0															
+914	Male	<65	Methylated	2	GTR	<4000cGy		18.06692679	0	1															
+915	Female	<65	Unknown	1	STR	>4500cGy		23.48742867	0	1															
+916	Male	<65	Unmethylated	0	GTR	>4500cGy		1.982048898	0	0															
+917	Female	65+	Unmethylated	1	STR	4000-4500cGy		1.067552645	0	1															
+918	Male	<65	Methylated	2	Biopsy	>4500cGy		20.27195858	0	1															
+919	Female	<65	Methylated	2	GTR	>4500cGy		6.973345023	0	0															
+920	Female	<65	Unknown	1	STR	>4500cGy		3.850607409	0	0															
+921	Male	65+	Methylated	1	STR	>4500cGy		1.694070833	0	1															
+922	Male	65+	Methylated	1	Biopsy	4000-4500cGy	0.4983544859	10.82092375	1	1															
+923	Male	<65	Unmethylated	0	Biopsy	>4500cGy	0.1745401748	4.347125006	1	1															
+924	Male	<65	Unmethylated	1	Biopsy	>4500cGy		0.9310613398	0	1															
+925	Female	<65	Methylated	2	Biopsy	>4500cGy		4.76808598	0	1															
+926	Male	65+	Unmethylated	Unknown	Biopsy	>4500cGy		3.427782085	0	1															
+927	Male	<65	Methylated	2	STR	>4500cGy		11.31686231	0	1															
+928	Female	<65	Methylated	1	Biopsy	>4500cGy		1.74845677	0	1															
+929	Female	<65	Methylated	0	STR	>4500cGy		5.497929689	0	0															
+930	Male	<65	Methylated	1	STR	>4500cGy		17.84786621	0	0															
+931	Male	<65	Methylated	2	STR	>4500cGy		0.96419065	0	1															
+932	Male	65+	Methylated	0	Biopsy	>4500cGy	2.584019402	15.52539572	1	1															
+933	Female	<65	Unknown	2	STR	>4500cGy		11.62838306	0	1															
+934	Male	<65	Unmethylated	2	GTR	>4500cGy		3.599152616	0	1															
+935	Male	<65	Unmethylated	1	GTR	>4500cGy		8.805197714	0	0															
+936	Female	<65	Unknown	2	GTR	>4500cGy		3.847533537	0	1															
+937	Male	<65	Unmethylated	0	GTR	>4500cGy	2.518423254	21.68076817	1	0															
+938	Male	<65	Methylated	1	STR	>4500cGy		3.706957388	0	0															
+939	Female	65+	Unknown	1	Biopsy	4000-4500cGy		3.952617499	0	1															
+940	Male	<65	Methylated	1	Biopsy	>4500cGy		4.11557988	0	1															
+941	Male	<65	Unknown	1	Biopsy	>4500cGy		7.627917212	0	0															
+942	Female	65+	Unknown	0	STR	>4500cGy	2.258550698	4.038364851	1	1															
+943	Male	65+	Methylated	1	GTR	>4500cGy		15.68524123	0	1															
+944	Female	<65	Unmethylated	2	Biopsy	>4500cGy		4.425283348	0	0															
+945	Male	<65	Methylated	2	STR	>4500cGy		0.1122524285	0	1															
+946	Male	<65	Unmethylated	0	GTR	>4500cGy		3.615512386	0	0															
+947	Male	<65	Methylated	1	STR	<4000cGy		13.64272275	0	0															
+948	Male	<65	Unknown	1	Biopsy	>4500cGy		1.5	0	0															
+949	Female	<65	Methylated	0	STR	>4500cGy	6.516727568	24.67316527	1	1															
+950	Male	<65	Unknown	0	Biopsy	>4500cGy		14.92525827	0	0															
+951	Male	<65	Unmethylated	0	STR	>4500cGy		4.420375759	0	1															
+952	Female	<65	Unknown	2	Biopsy	>4500cGy		9.439555433	0	0															
+953	Male	<65	Unmethylated	0	GTR	>4500cGy		9.582375861	0	1															
+954	Female	<65	Unmethylated	1	STR	>4500cGy	7.394271802	9.038877544	1	1															
+955	Female	<65	Methylated	0	Biopsy	>4500cGy		4.792935714	0	0															
+956	Male	<65	Unmethylated	0	STR	>4500cGy		1.236143612	0	1															
+957	Male	<65	Unmethylated	0	STR	>4500cGy	6.401942425	9.500087839	1	1															
+958	Female	65+	Methylated	1	Biopsy	>4500cGy		3.166025312	0	0															
+959	Male	<65	Unmethylated	1	STR	>4500cGy		3.050543445	0	1															
+960	Female	65+	Unknown	1	Biopsy	>4500cGy		9.99197822	0	1															
+961	Male	<65	Unmethylated	2	STR	>4500cGy		2.897367847	0	0															
+962	Male	<65	Methylated	0	Biopsy	>4500cGy		65.19936509	0	1															
+963	Male	<65	Unknown	2	STR	>4500cGy		6.327985105	0	1															
+964	Male	<65	Unmethylated	2	STR	>4500cGy		7.563800392	0	1															
+965	Male	<65	Unknown	1	STR	>4500cGy		12.87549468	0	0															
+966	Male	65+	Methylated	2	STR	>4500cGy		2.806216862	0	0															
+967	Male	65+	Unknown	0	Biopsy	>4500cGy		12.28759777	0	0															
+968	Male	<65	Unmethylated	0	STR	>4500cGy	5.509150005	13.93427949	1	1															
+969	Male	<65	Unknown	1	STR	>4500cGy	0.09794575875	1.707118753	1	1															
+970	Male	<65	Unmethylated	1	STR	>4500cGy		7.255786074	0	0															
+971	Female	<65	Unmethylated	1	GTR	>4500cGy	0.04804178138	17.56235376	1	1															
+972	Female	<65	Unknown	0	Biopsy	>4500cGy		43.88753989	0	0															
+973	Female	<65	Methylated	1	STR	>4500cGy		23.82049333	0	0															
+974	Male	<65	Methylated	2	STR	>4500cGy	1.278523723	25.36800133	1	1															
+975	Female	65+	Methylated	1	STR	>4500cGy		34.41308856	0	1															
+976	Male	<65	Methylated	0	STR	<4000cGy		17.96772485	0	1															
+977	Female	65+	Unmethylated	1	Biopsy	<4000cGy		15.39472626	0	1															
+978	Male	65+	Methylated	1	STR	>4500cGy		6.640022813	0	1															
+979	Male	<65	Methylated	1	STR	>4500cGy		12.32374578	0	0															
+980	Female	<65	Unmethylated	1	STR	>4500cGy		5.450828818	0	0															
+981	Female	65+	Unmethylated	1	STR	>4500cGy		0.8597362607	0	1															
+982	Male	<65	Unmethylated	2	Biopsy	>4500cGy		4.730763765	0	0															
+983	Male	<65	Unmethylated	1	STR	>4500cGy	0.1024380155	2.586949826	1	1															
+984	Male	<65	Unmethylated	2	STR	>4500cGy		0.3239619373	0	1															
+985	Female	<65	Methylated	2	STR	>4500cGy		3.49938268	0	0															
+986	Female	<65	Unmethylated	0	STR	>4500cGy		1.732026227	0	1															
+987	Female	<65	Unknown	0	STR	>4500cGy		3.634855013	0	0															
+988	Female	<65	Unknown	2	Biopsy	>4500cGy		3.503986447	0	0															
+989	Male	<65	Unknown	0	STR	>4500cGy	0.00002061909349	2.297142804	1	0															
+990	Male	<65	Unmethylated	1	STR	>4500cGy		6.284672645	0	0															
+991	Male	<65	Unmethylated	1	STR	>4500cGy		2.25442451	0	1															
+992	Male	<65	Unknown	0	Biopsy	>4500cGy		13.59204536	0	1															
+993	Male	<65	Methylated	2	STR	>4500cGy		0.2904207609	0	1															
+994	Female	<65	Unknown	0	STR	>4500cGy		21.10536637	0	1															
+995	Female	<65	Unknown	1	Biopsy	>4500cGy		1.598923764	0	1															
+996	Female	<65	Unknown	1	Biopsy	>4500cGy		5.037868705	0	0															
+997	Male	<65	Methylated	0	Biopsy	>4500cGy		4.411461823	0	0															
+998	Female	<65	Unmethylated	1	STR	>4500cGy		3.15189259	0	0															
+999	Female	65+	Unmethylated	2	STR	>4500cGy		6.806226387	0	0															
+1000	Female	<65	Methylated	0	Biopsy	>4500cGy		10.38525326	0	0															
+1001	Male	<65	Methylated	1	STR	>4500cGy		6.051622213	0	0															
+1002	Female	<65	Unknown	1	STR	>4500cGy		1.149000133	0	1															
+1003	Male	<65	Unmethylated	2	STR	>4500cGy		8.24858265	0	1															
+1004	Male	<65	Unmethylated	1	Biopsy	>4500cGy	1.167499508	1.828451137	1	1															
+1005	Male	<65	Unmethylated	1	STR	>4500cGy		6.803208558	0	1															
+1006	Female	65+	Methylated	0	STR	>4500cGy		0.1987580659	0	1															
+1007	Female	<65	Unknown	2	Biopsy	>4500cGy		4.127596543	0	0															
+1008	Female	<65	Unknown	2	Biopsy	4000-4500cGy		1.537434086	0	1															
+1009	Male	<65	Unmethylated	2	STR	>4500cGy	11.68424617	11.87897866	1	0															
+1010	Female	<65	Unmethylated	1	STR	>4500cGy		6.348129625	0	0															
+1011	Male	<65	Unmethylated	0	STR	>4500cGy	1.689653486	5.558006852	1	0															
+1012	Female	<65	Methylated	0	STR	>4500cGy		12.83513061	0	0															
+1013	Female	65+	Unmethylated	1	STR	>4500cGy		16.58534649	0	1															
+1014	Female	<65	Unknown	1	Biopsy	>4500cGy	0.03568752266	2.465278851	1	0															
+1015	Male	<65	Methylated	0	Biopsy	>4500cGy		4.993850175	0	0															
+1016	Male	<65	Unknown	0	Biopsy	>4500cGy		1.750090778	0	1															
+1017	Female	<65	Unmethylated	0	Biopsy	>4500cGy		6.79862685	0	0															
+1018	Male	<65	Methylated	0	STR	>4500cGy		2.668003838	0	1															
+1019	Female	65+	Unmethylated	0	STR	>4500cGy		8.207682948	0	1															
+1020	Female	<65	Methylated	0	STR	>4500cGy		6.228348929	0	0															
+1021	Male	<65	Unknown	1	Biopsy	>4500cGy		4.000171652	0	1															
+1022	Female	<65	Unknown	0	Biopsy	>4500cGy		13.37637238	0	0															
+1023	Male	65+	Unmethylated	0	STR	>4500cGy		11.3899158	0	1															
+1024	Male	<65	Unmethylated	0	STR	>4500cGy		2.479580567	0	1															
+1025	Male	<65	Methylated	2	STR	>4500cGy		5.37866461	0	0															
+1026	Male	<65	Methylated	0	STR	>4500cGy		3.617815398	0	0															
+1027	Female	65+	Methylated	0	STR	>4500cGy		1.301716564	0	1															
+1028	Female	<65	Unmethylated	0	STR	>4500cGy		18.58019119	0	0															
+1029	Male	<65	Unmethylated	0	STR	>4500cGy		2.94359487	0	1															
+1030	Male	<65	Methylated	0	STR	>4500cGy		29.31104653	0	0															
+1031	Female	<65	Methylated	0	STR	>4500cGy		7.325269296	0	0															
+1032	Female	65+	Methylated	2	STR	4000-4500cGy		13.27674222	0	1															
+1033	Female	<65	Methylated	0	STR	>4500cGy		1.880944322	0	1															
+1034	Male	<65	Methylated	0	STR	>4500cGy	1.084514307	3.919327496	1	0															
+1035	Male	65+	Unknown	0	STR	>4500cGy		11.48149772	0	0															
+1036	Male	<65	Unmethylated	0	STR	>4500cGy		14.91902131	0	1															
+1037	Male	65+	Unmethylated	0	STR	>4500cGy		0.2043555418	0	1															
+1038	Male	<65	Methylated	0	STR	>4500cGy		12.14562872	0	0															
+1039	Male	<65	Methylated	2	STR	>4500cGy		2.763561752	0	1															
+1040	Male	65+	Unknown	2	Biopsy	>4500cGy		9.349258869	0	0															
+1041	Male	<65	Methylated	2	STR	>4500cGy		11.15564401	0	1															
+1042	Male	<65	Methylated	0	STR	>4500cGy		7.743320832	0	1															
+1043	Male	<65	Unmethylated	2	STR	>4500cGy		3.670748634	0	1															
+1044	Female	<65	Methylated	0	Biopsy	>4500cGy		7.781149141	0	1															
+1045	Male	<65	Unmethylated	0	STR	>4500cGy		8.930664543	0	0															
+1046	Male	<65	Unknown	2	STR	>4500cGy		7.719361997	0	1															
+1047	Male	<65	Unknown	0	STR	>4500cGy		4.287505292	0	0															
+1048	Male	<65	Unmethylated	0	STR	>4500cGy		10.45559886	0	0															
+1049	Male	65+	Methylated	0	STR	>4500cGy		12.04000195	0	0															
+1050	Female	<65	Unmethylated	2	Biopsy	>4500cGy	1.977386018	14.88091555	1	1															
+1051	Male	<65	Unmethylated	2	STR	>4500cGy		3.087473912	0	1															
+1052	Male	65+	Unmethylated	1	Biopsy	>4500cGy		4.469788505	0	0															
+1053	Female	<65	Unmethylated	0	STR	>4500cGy		0.3413032093	0	1															
+1054	Female	65+	Unmethylated	0	STR	>4500cGy	2.360331205	4.293851124	1	1															
+1055	Male	<65	Methylated	1	STR	>4500cGy		0.5179453624	0	1															
+1056	Male	<65	Methylated	1	STR	>4500cGy		67.81772169	0	0															
+1057	Male	65+	Unknown	2	STR	>4500cGy		5.480081829	0	1															
+1058	Male	<65	Methylated	0	STR	>4500cGy		8.04013839	0	0															
+1059	Male	<65	Unknown	0	STR	>4500cGy		9.66616625	0	0															
+1060	Female	<65	Unmethylated	0	STR	>4500cGy		18.36627233	0	1															
+1061	Male	<65	Methylated	1	GTR	>4500cGy		20.55179398	0	1															
+1062	Male	<65	Unmethylated	1	STR	>4500cGy	2.879880954	3.17990718	1	1															
+1063	Female	<65	Unknown	1	GTR	>4500cGy		4.374199678	0	1															
+1064	Female	<65	Unknown	2	GTR	>4500cGy		0.2001440373	0	1															
+1065	Male	<65	Methylated	0	STR	>4500cGy		2.437594887	0	1															
+1066	Male	<65	Unknown	2	Biopsy	4000-4500cGy		0.1578994856	0	1															
+1067	Male	65+	Unknown	0	STR	<4000cGy		5.73420564	0	1															
+1068	Male	65+	Unknown	2	Biopsy	<4000cGy		7.159007947	0	0															
+1069	Male	<65	Unknown	1	STR	>4500cGy	1.83944598	10.79520387	1	1															
+1070	Male	<65	Unknown	0	STR	>4500cGy		9.429841515	0	1															
+1071	Male	65+	Unknown	2	STR	4000-4500cGy		6.898535818	0	1															
+1072	Female	65+	Unknown	0	STR	>4500cGy		7.755308967	0	1															
+1073	Male	<65	Unknown	1	Biopsy	4000-4500cGy		1.554516552	0	0															
+1074	Male	<65	Unknown	1	STR	>4500cGy		7.706287017	0	1															
+1075	Male	65+	Unknown	Unknown	STR	4000-4500cGy		1.500872217	0	1															
+1076	Male	<65	Unmethylated	2	STR	>4500cGy		4.431144522	0	1															
+1077	Male	<65	Unknown	1	Biopsy	>4500cGy		0.001930066577	0	1															
+1078	Female	<65	Unknown	0	STR	>4500cGy		39.42732504	0	1															
+1079	Female	<65	Unknown	2	Biopsy	>4500cGy		10.05527494	0	1															
+1080	Male	<65	Unknown	1	STR	>4500cGy		4.869280499	0	0															
+1081	Female	<65	Unknown	1	STR	>4500cGy		32.20775676	0	1															
+1082	Male	65+	Unknown	2	Biopsy	4000-4500cGy		7.232781389	0	1															
+1083	Female	<65	Unknown	2	STR	>4500cGy		2.967690905	0	0															
+1084	Male	65+	Unknown	1	STR	>4500cGy		3.272542302	0	1															
+1085	Male	<65	Unknown	0	Biopsy	>4500cGy		16.89581277	0	1															
+1086	Male	<65	Unknown	2	STR	>4500cGy	19.65593926	25.92001911	1	1															
+1087	Male	65+	Unknown	1	STR	<4000cGy		3.439023594	0	1															
+1088	Female	<65	Unknown	1	STR	>4500cGy		11.0273833	0	1															
+1089	Female	65+	Unknown	1	GTR	4000-4500cGy	3.059459859	26.65054978	1	0															
+1090	Male	<65	Unknown	0	Biopsy	>4500cGy		23.25900177	0	0															
+1091	Male	<65	Unknown	0	STR	>4500cGy		2.369409403	0	1															
+1092	Male	65+	Unknown	1	STR	<4000cGy		5.994713592	0	1															
+1093	Female	<65	Unknown	2	STR	>4500cGy		35.77106495	0	1															
+1094	Female	<65	Unknown	0	STR	>4500cGy		1.5	0	0															
+1095	Male	65+	Unknown	2	STR	<4000cGy		13.36661374	0	0															
+1096	Female	<65	Unknown	2	STR	>4500cGy		8.032730142	0	0															
+1097	Male	<65	Unknown	1	GTR	>4500cGy		1.619931659	0	1															
+1098	Male	<65	Unknown	1	STR	>4500cGy		6.196639978	0	0															
+1099	Male	<65	Unknown	1	Biopsy	>4500cGy		6.891432322	0	1															
+1100	Male	<65	Unknown	1	STR	>4500cGy		2.547109551	0	1															
+1101	Male	<65	Unmethylated	1	STR	Unknown		23.33364079	0	1															
+1102	Male	<65	Unknown	0	STR	>4500cGy		17.708045	0	1															
+1103	Male	65+	Unknown	2	STR	>4500cGy		4.271529874	0	0															
+1104	Male	65+	Unknown	0	STR	>4500cGy		31.13866837	0	1															
+1105	Male	<65	Unknown	0	STR	>4500cGy		28.93015304	0	1															
+1106	Male	65+	Unknown	1	STR	>4500cGy		3.971496623	0	0															
+1107	Male	<65	Unknown	1	Biopsy	>4500cGy		4.252786819	0	1															
+1108	Male	65+	Unknown	1	STR	>4500cGy		6.984170576	0	1															
+1109	Female	<65	Unknown	2	STR	>4500cGy	2.559937492	18.0373177	1	0															
+1110	Male	<65	Methylated	1	STR	>4500cGy		25.93974402	0	0															
+1111	Male	<65	Unknown	2	Biopsy	>4500cGy		1.074836856	0	1															
+1112	Female	<65	Unknown	1	STR	>4500cGy		12.89438507	0	0															
+1113	Male	<65	Unknown	1	STR	>4500cGy		10.00728905	0	1															
+1114	Male	<65	Unknown	2	Biopsy	>4500cGy		20.96489056	0	1															
+1115	Female	<65	Unknown	0	Biopsy	>4500cGy		10.61696064	0	1															
+1116	Male	<65	Methylated	2	STR	>4500cGy		16.22210283	0	0															
+1117	Male	<65	Unknown	0	STR	>4500cGy		7.153581648	0	0															
+1118	Female	65+	Unknown	2	STR	4000-4500cGy		5.524070448	0	0															
+1119	Female	<65	Unknown	0	Biopsy	>4500cGy		11.04237624	0	0															
+1120	Male	<65	Unknown	1	STR	>4500cGy		1.455538513	0	1															
+1121	Male	<65	Unknown	0	STR	>4500cGy		19.63434666	0	1															
+1122	Female	<65	Unknown	1	STR	>4500cGy		6.457984571	0	0															
+1123	Female	<65	Unknown	Unknown	Unknown	Unknown		3.319744407	0	1															
+1124	Female	<65	Unknown	2	STR	>4500cGy		5.148025342	0	0															
+1125	Male	65+	Unknown	0	STR	>4500cGy	18.18082022	27.50548027	1	1															
+1126	Male	65+	Unknown	0	GTR	>4500cGy	3.311372665	8.172322289	1	0															
+1127	Female	<65	Unmethylated	1	STR	>4500cGy		2.519714034	0	1															
+1128	Female	<65	Unknown	1	GTR	>4500cGy		5.938328218	0	1															
+1129	Male	<65	Unknown	1	Biopsy	>4500cGy		7.481981867	0	0															
+1130	Male	<65	Unknown	2	STR	>4500cGy		27.57344766	0	1															
+1131	Male	<65	Unknown	2	STR	>4500cGy		4.417786241	0	1															
+1132	Female	<65	Unknown	0	Biopsy	>4500cGy		15.78541903	0	1															
+1133	Female	<65	Unknown	0	STR	>4500cGy		15.07532724	0	0															
+1134	Male	65+	Unknown	0	GTR	>4500cGy		0.3754018737	0	1															
+1135	Male	<65	Methylated	1	STR	>4500cGy		31.42593429	0	0															
+1136	Male	65+	Unknown	2	STR	4000-4500cGy		8.728224084	0	0															
+1137	Male	<65	Methylated	0	GTR	>4500cGy		20.37445586	0	1															
+1138	Female	<65	Unknown	0	STR	4000-4500cGy		32.85795015	0	0															
+1139	Male	<65	Unknown	2	Unknown	>4500cGy	19.55593441	65.49113545	1	1															
+1140	Male	<65	Unknown	1	STR	>4500cGy		11.14689379	0	0															
+1141	Male	<65	Unknown	Unknown	STR	Unknown		2.879541278	0	1															
+1142	Female	<65	Unknown	0	Biopsy	>4500cGy		34.62418669	0	0															
+1143	Male	<65	Unmethylated	1	Biopsy	>4500cGy		14.48573503	0	1															
+1144	Male	<65	Unknown	1	STR	>4500cGy		10.79650407	0	1															
+1145	Female	<65	Methylated	0	GTR	>4500cGy	32.75878917	39.29556741	1	0															
+1146	Male	<65	Unknown	1	Biopsy	>4500cGy		25.40187613	0	0															
+1147	Female	<65	Unknown	1	STR	>4500cGy		11.69338647	0	0															
+1148	Female	<65	Unknown	2	GTR	>4500cGy		2.677469101	0	0															
+1149	Female	<65	Unmethylated	1	STR	>4500cGy		10.52536984	0	0															
+1150	Female	<65	Unknown	1	Biopsy	>4500cGy		26.37230997	0	1															
+1151	Female	65+	Unknown	0	STR	>4500cGy		7.294087101	0	0															
+1152	Female	<65	Methylated	1	STR	>4500cGy		47.79941583	0	1															
+1153	Male	65+	Unknown	1	STR	4000-4500cGy		10.06380115	0	1															
+1154	Female	65+	Methylated	1	STR	>4500cGy		2.766747604	0	1															
+1155	Female	<65	Unmethylated	0	GTR	>4500cGy	0.3183403091	10.42124381	1	0															
+1156	Female	<65	Unmethylated	1	GTR	>4500cGy		6.485903224	0	1															
+1157	Male	<65	Unknown	0	Biopsy	>4500cGy		16.9782954	0	1															
+1158	Male	<65	Unmethylated	0	GTR	>4500cGy		0.9469463974	0	1															
+1159	Female	65+	Unmethylated	0	Biopsy	<4000cGy		3.691191045	0	1															
+1160	Male	65+	Methylated	2	Biopsy	4000-4500cGy		1.549959818	0	1															
+1161	Male	<65	Methylated	0	STR	>4500cGy		68.47450117	0	1															
+1162	Female	<65	Unknown	2	STR	>4500cGy		7.782972839	0	0															
+1163	Male	<65	Methylated	0	GTR	>4500cGy		6.935712703	0	0															
+1164	Male	<65	Methylated	1	STR	>4500cGy		36.23133557	0	1															
+1165	Male	<65	Unmethylated	0	STR	>4500cGy	1.747032181	9.782424317	1	1															
+1166	Male	<65	Unmethylated	1	STR	>4500cGy		7.349813808	0	1															
+1167	Male	<65	Unmethylated	1	STR	>4500cGy	1.24515636	10.40089538	1	1															
+1168	Male	<65	Unmethylated	0	Biopsy	>4500cGy		5.188897652	0	0															
+1169	Female	<65	Unknown	1	STR	>4500cGy		19.20887265	0	0															
+1170	Female	<65	Unmethylated	2	STR	>4500cGy		13.72685419	0	1															
+1171	Male	<65	Unmethylated	0	STR	>4500cGy		7.486437273	0	0															
+1172	Male	<65	Unknown	0	Biopsy	>4500cGy		18.17252547	0	0															
+1173	Female	<65	Unmethylated	1	STR	>4500cGy		6.983759335	0	0															
+1174	Female	<65	Methylated	1	GTR	>4500cGy		7.482306915	0	0															
+1175	Female	<65	Unmethylated	1	GTR	>4500cGy		5.058437598	0	1															
+1176	Male	<65	Methylated	0	Biopsy	>4500cGy		34.95232165	0	1															
+1177	Male	<65	Unmethylated	1	GTR	>4500cGy		1.623346284	0	1															
+1178	Male	<65	Unmethylated	0	STR	>4500cGy		11.12514875	0	0															
+1179	Male	<65	Unmethylated	1	GTR	>4500cGy		2.181863788	0	1															
+1180	Male	<65	Unmethylated	0	GTR	>4500cGy		15.0815991	0	1															
+1181	Male	<65	Methylated	0	STR	>4500cGy		7.791153908	0	0															
+1182	Female	<65	Unmethylated	1	GTR	>4500cGy		24.42290933	0	1															
+1183	Female	<65	Unknown	1	STR	>4500cGy		16.2071063	0	0															
+1184	Female	65+	Unmethylated	0	STR	>4500cGy		2.23933669	0	1															
+1185	Male	<65	Unmethylated	0	STR	>4500cGy	3.372562498	4.696932504	1	0															
+1186	Female	65+	Unmethylated	1	STR	4000-4500cGy		10.47201221	0	1															
+1187	Male	<65	Unmethylated	0	STR	>4500cGy		31.84266401	0	1															
+1188	Male	<65	Methylated	1	GTR	>4500cGy		1.627949151	0	0															
+1189	Male	65+	Unknown	1	Biopsy	4000-4500cGy		21.63887217	0	1															
+1190	Female	65+	Methylated	0	Biopsy	>4500cGy		7.676731101	0	1															
+1191	Male	<65	Methylated	1	GTR	>4500cGy		8.956235395	0	1															
+1192	Male	65+	Unmethylated	2	GTR	>4500cGy	1.203142325	2.372435509	1	1															
+1193	Female	65+	Unmethylated	1	GTR	4000-4500cGy		4.052290239	0	0															
+1194	Male	<65	Unmethylated	0	STR	>4500cGy		8.274954599	0	0															
+1195	Male	65+	Methylated	0	STR	>4500cGy		6.04806749	0	1															
+1196	Male	<65	Unmethylated	1	Biopsy	>4500cGy	1.147731217	8.070567303	1	1															
+1197	Male	<65	Unmethylated	1	Biopsy	>4500cGy		7.671050238	0	0															
+1198	Female	<65	Unmethylated	0	GTR	>4500cGy		5.061122787	0	0															
+1199	Female	<65	Unmethylated	1	STR	>4500cGy		10.45666946	0	0															
+1200	Female	<65	Methylated	0	GTR	>4500cGy		74.31399224	0	1															
+1201	Female	65+	Methylated	2	GTR	4000-4500cGy		46.81734158	0	1															
+1202	Female	<65	Unmethylated	2	STR	>4500cGy		7.758166506	0	1															
+1203	Male	<65	Methylated	1	GTR	>4500cGy	3.912799279	10.25450953	1	1															
+1204	Male	65+	Unknown	0	STR	>4500cGy		7.458368719	0	1															
+1205	Male	65+	Methylated	1	STR	>4500cGy		7.59218234	0	0															
+1206	Male	65+	Methylated	1	Biopsy	>4500cGy		0.2518335255	0	1															
+1207	Male	65+	Unmethylated	2	STR	4000-4500cGy		3.63490701	0	0															
+1208	Male	65+	Unknown	2	GTR	4000-4500cGy	6.495175093	9.014821795	1	1															
+1209	Male	65+	Methylated	1	Biopsy	>4500cGy		14.16782142	0	0															
+1210	Male	65+	Methylated	1	GTR	>4500cGy		5.099693392	0	1															
+1211	Male	65+	Unmethylated	1	GTR	4000-4500cGy		24.94511966	0	1															
+1212	Female	<65	Unmethylated	0	STR	>4500cGy		11.37900706	0	0															
+1213	Male	<65	Methylated	1	STR	>4500cGy		68.83338236	0	1															
+1214	Male	<65	Methylated	0	STR	>4500cGy		1.5	0	0															
+1215	Male	<65	Unmethylated	1	STR	>4500cGy		9.997591842	0	0															
+1216	Female	65+	Unmethylated	1	STR	>4500cGy	0.9569826494	2.0815827	1	1															
+1217	Male	<65	Unknown	2	Biopsy	>4500cGy	0.4539065214	8.462666164	1	1															
+1218	Female	<65	Unknown	2	Biopsy	4000-4500cGy		4.10959269	0	1															
+1219	Female	65+	Methylated	2	GTR	4000-4500cGy		14.15150577	0	0															
+1220	Female	<65	Unmethylated	0	GTR	>4500cGy		13.55845074	0	1															
+1221	Male	<65	Unmethylated	1	GTR	>4500cGy		37.05794451	0	1															
+1222	Male	<65	Methylated	1	GTR	4000-4500cGy		62.39290777	0	1															
+1223	Male	65+	Unknown	0	GTR	4000-4500cGy		11.45943018	0	0															
+1224	Male	<65	Unmethylated	0	GTR	>4500cGy		4.873114461	0	0															
+1225	Male	<65	Unknown	0	GTR	>4500cGy		11.31460014	0	0															
+1226	Female	65+	Unmethylated	2	STR	4000-4500cGy		2.852268796	0	1															
+1227	Male	<65	Methylated	0	GTR	>4500cGy		47.22538809	0	1															
+1228	Male	65+	Methylated	1	STR	>4500cGy		6.733773054	0	0															
+1229	Female	65+	Unmethylated	2	STR	4000-4500cGy	0.008398155133	4.701528171	1	1															
+1230	Male	<65	Unmethylated	0	STR	>4500cGy		1.961730296	0	1															
+1231	Male	<65	Unknown	1	Biopsy	4000-4500cGy		12.23674746	0	1															
+1232	Female	<65	Methylated	2	STR	>4500cGy		6.910685994	0	0															
+1233	Female	<65	Methylated	0	STR	>4500cGy		8.701473295	0	1															
+1234	Male	<65	Methylated	2	STR	>4500cGy		49.21782291	0	1															
+1235	Male	<65	Unmethylated	0	Biopsy	>4500cGy		3.038499611	0	1															
+1236	Female	<65	Methylated	0	GTR	>4500cGy	11.64483318	35.68826274	1	0															
+1237	Male	<65	Methylated	1	GTR	4000-4500cGy		5.860342413	0	1															
+1238	Female	<65	Unmethylated	1	STR	>4500cGy		4.609416196	0	0															
+1239	Female	<65	Methylated	0	GTR	>4500cGy		16.59555342	0	0															
+1240	Male	<65	Unmethylated	1	GTR	Unknown		2.774517009	0	1															
+1241	Female	<65	Methylated	1	GTR	>4500cGy		6.468881635	0	1															
+1242	Male	<65	Unmethylated	2	GTR	>4500cGy		21.15705718	0	0															
+1243	Male	<65	Unmethylated	0	GTR	>4500cGy		17.08438722	0	1															
+1244	Male	<65	Unmethylated	1	GTR	>4500cGy		3.657175963	0	0															
+1245	Female	<65	Methylated	0	GTR	>4500cGy	1.397229746	2.068283887	1	1															
+1246	Female	65+	Unknown	2	STR	4000-4500cGy	1.58247027	3.52779086	1	1															
+1247	Male	<65	Unmethylated	0	GTR	>4500cGy	0.9028752681	9.527170988	1	1															
+1248	Female	<65	Unknown	1	STR	>4500cGy		16.07901666	0	0															
+1249	Male	65+	Methylated	0	STR	4000-4500cGy	24.25871954	49.65073445	1	0															
+1250	Male	65+	Unmethylated	2	STR	4000-4500cGy		6.268639798	0	1															
+1251	Female	<65	Methylated	1	STR	>4500cGy		71.5353112	0	1															
+1252	Male	<65	Unmethylated	1	STR	>4500cGy		11.76199982	0	1															
+1253	Male	<65	Unmethylated	0	STR	>4500cGy		23.62996373	0	1															
+1254	Male	<65	Unmethylated	1	GTR	>4500cGy		3.046991363	0	1															
+1255	Male	<65	Unmethylated	1	GTR	>4500cGy		4.800024295	0	0															
+1256	Female	<65	Methylated	2	STR	>4500cGy		8.327675202	0	1															
+1257	Male	65+	Unmethylated	2	STR	4000-4500cGy		2.280243104	0	1															
+1258	Female	<65	Methylated	1	STR	>4500cGy		4.436351104	0	0															
+1259	Female	<65	Methylated	0	STR	4000-4500cGy		1.5	0	0															
+1260	Male	<65	Methylated	Unknown	STR	Unknown		57.94052557	0	1															
+1261	Male	<65	Unmethylated	0	Biopsy	>4500cGy		14.80593693	0	1															
+1262	Male	65+	Unmethylated	2	STR	4000-4500cGy		8.430546958	0	0															
+1263	Male	<65	Methylated	1	STR	>4500cGy		10.1045549	0	0															
+1264	Male	65+	Methylated	1	Biopsy	4000-4500cGy		7.685801281	0	0															
+1265	Male	<65	Unmethylated	0	STR	>4500cGy		1.147567613	0	1															
+1266	Male	65+	Unmethylated	1	GTR	>4500cGy		21.52872943	0	0															
+1267	Male	<65	Unmethylated	1	STR	>4500cGy		12.25689525	0	1															
+1268	Male	65+	Methylated	1	STR	4000-4500cGy	1.78635683	2.826623358	1	0															
+1269	Female	65+	Unmethylated	1	STR	4000-4500cGy		21.42216432	0	1															
+1270	Female	65+	Unknown	1	GTR	4000-4500cGy		9.18195766	0	0															
+1271	Male	<65	Unmethylated	0	GTR	>4500cGy		24.71419057	0	1															
+1272	Male	65+	Unmethylated	0	STR	4000-4500cGy		2.492024126	0	1															
+1273	Male	<65	Unmethylated	1	Biopsy	>4500cGy		5.714348807	0	1															
+1274	Male	<65	Unmethylated	2	Biopsy	>4500cGy		1.914815431	0	1															
+1275	Male	<65	Unknown	2	Biopsy	>4500cGy		2.560515929	0	1															
+1276	Female	<65	Unmethylated	1	GTR	>4500cGy		33.58649189	0	1															
+1277	Male	<65	Methylated	1	STR	>4500cGy		20.60772732	0	1															
+1278	Female	<65	Unknown	1	STR	>4500cGy		1.832061897	0	0															
+1279	Male	65+	Unknown	0	STR	>4500cGy		4.099595061	0	0															
+1280	Female	65+	Unmethylated	1	GTR	4000-4500cGy		0.3904781739	0	1															
+1281	Male	<65	Methylated	0	STR	>4500cGy		62.03111202	0	1															
+1282	Male	65+	Unmethylated	1	STR	4000-4500cGy		7.978550814	0	1															
+1283	Female	65+	Unmethylated	1	STR	4000-4500cGy		2.334927432	0	1															
+1284	Female	<65	Unmethylated	1	GTR	>4500cGy		12.0938779	0	1															
+1285	Male	65+	Methylated	1	Biopsy	4000-4500cGy		6.513030513	0	1															
+1286	Male	<65	Methylated	2	GTR	>4500cGy		4.338452915	0	1															
+1287	Female	65+	Methylated	1	Biopsy	>4500cGy		3.403742999	0	1															
+1288	Female	<65	Methylated	2	STR	>4500cGy		1.5	0	0															
+1289	Male	<65	Unmethylated	1	STR	>4500cGy		0.8788997212	0	1															
+1290	Male	65+	Methylated	0	GTR	4000-4500cGy		10.67613328	0	0															
+1291	Male	65+	Methylated	1	GTR	4000-4500cGy		11.96672383	0	1															
+1292	Male	<65	Unmethylated	0	GTR	>4500cGy		2.807549215	0	0															
+1293	Male	<65	Unmethylated	1	STR	>4500cGy		12.85564878	0	1															
+1294	Female	65+	Unknown	1	Biopsy	4000-4500cGy		0.2164331473	0	1															
+1295	Male	<65	Methylated	0	STR	>4500cGy		49.28529699	0	1															
+1296	Female	<65	Methylated	1	GTR	>4500cGy		11.49467958	0	0															
+1297	Male	<65	Unmethylated	1	GTR	>4500cGy		4.030915521	0	0															
+1298	Male	65+	Unmethylated	1	STR	>4500cGy		16.65311377	0	1															
+1299	Male	65+	Unmethylated	1	STR	4000-4500cGy		13.45013535	0	1															
+1300	Male	65+	Unknown	0	STR	4000-4500cGy		17.05839657	0	1															
+1301	Female	<65	Unmethylated	0	GTR	>4500cGy		12.17395455	0	1															
+1302	Male	<65	Methylated	1	STR	>4500cGy		1.124468196	0	1															
+1303	Male	65+	Methylated	2	STR	4000-4500cGy		10.24624802	0	0															
+1304	Male	65+	Unmethylated	1	GTR	>4500cGy	0.2239914543	2.975703466	1	1															
+1305	Male	65+	Methylated	0	Unknown	Unknown	0.6419120554	3.666304757	1	0															
+1306	Female	<65	Unmethylated	Unknown	Unknown	Unknown		1.658331938	0	0															
+1307	Male	<65	Unmethylated	1	STR	>4500cGy		18.67071791	0	1															
+1308	Male	<65	Unmethylated	1	GTR	>4500cGy		40.71608736	0	1															
+1309	Male	65+	Unmethylated	1	GTR	>4500cGy		1.636795217	0	1															
+1310	Male	<65	Unmethylated	0	STR	>4500cGy		8.691513861	0	0															
+1311	Female	65+	Methylated	0	STR	>4500cGy		13.99495493	0	1															
+1312	Female	65+	Methylated	1	STR	>4500cGy		12.84530078	0	1															
+1313	Female	65+	Methylated	1	Biopsy	4000-4500cGy		14.96208848	0	1															
+1314	Male	65+	Methylated	1	Biopsy	4000-4500cGy		4.046894383	0	1															
+1315	Male	<65	Unmethylated	1	STR	>4500cGy		3.989212003	0	1															
+1316	Female	65+	Methylated	0	GTR	4000-4500cGy		1.581451584	0	1															
+1317	Female	<65	Methylated	2	Biopsy	>4500cGy		19.31380613	0	1															
+1318	Male	<65	Unmethylated	2	Biopsy	>4500cGy		2.866104739	0	0															
+1319	Male	<65	Methylated	2	STR	>4500cGy		18.36077443	0	1															
+1320	Male	<65	Unmethylated	1	STR	>4500cGy		5.52206526	0	1															
+1321	Male	<65	Unmethylated	1	Biopsy	>4500cGy		5.852238002	0	1															
+1322	Male	<65	Unmethylated	1	STR	>4500cGy		60.50781383	0	0															
+1323	Female	65+	Methylated	0	GTR	>4500cGy		4.779291131	0	1															
+1324	Male	<65	Unmethylated	0	STR	>4500cGy		9.755877147	0	1															
+1325	Male	65+	Methylated	1	STR	>4500cGy		1.649238592	0	1															
+1326	Female	65+	Methylated	1	STR	4000-4500cGy		0.9992185466	0	1															
+1327	Male	<65	Unmethylated	1	STR	>4500cGy		1.46253458	0	1															
+1328	Female	<65	Methylated	0	STR	>4500cGy		14.76592982	0	1															
+1329	Male	<65	Unmethylated	0	Biopsy	4000-4500cGy		2.029683117	0	1															
+1330	Male	65+	Methylated	2	GTR	4000-4500cGy		2.837285311	0	0															
+1331	Male	<65	Unmethylated	1	STR	>4500cGy		6.350967718	0	1															
+1332	Male	<65	Unmethylated	1	STR	>4500cGy	6.712977841	6.75081134	1	0															
+1333	Male	<65	Unmethylated	1	STR	>4500cGy		0.4299256187	0	1															
+1334	Male	65+	Methylated	0	STR	>4500cGy		12.69500903	0	0															
+1335	Male	<65	Unmethylated	0	STR	>4500cGy		0.3573472333	0	1															
+1336	Male	<65	Unmethylated	1	STR	>4500cGy		5.236091539	0	1															
+1337	Female	<65	Unmethylated	1	STR	>4500cGy		1.637248711	0	1															
+1338	Male	65+	Unmethylated	0	Biopsy	4000-4500cGy	2.188010702	6.500985259	1	1															
+1339	Female	65+	Unmethylated	1	STR	4000-4500cGy	0.08575472759	1.104278222	1	1															
+1340	Female	65+	Methylated	0	GTR	4000-4500cGy		2.302155764	0	1															
+1341	Male	<65	Unknown	2	Biopsy	>4500cGy		21.09263048	0	1															
+1342	Female	<65	Unmethylated	1	STR	>4500cGy		29.22167395	0	0															
+1343	Female	65+	Methylated	0	Biopsy	4000-4500cGy	6.09937814	12.12181259	1	0															
+1344	Female	<65	Unmethylated	2	GTR	>4500cGy		13.17732181	0	1															
+1345	Female	65+	Unknown	2	Biopsy	4000-4500cGy		1.5	0	0															
+1346	Female	<65	Methylated	2	Biopsy	>4500cGy		7.707437875	0	0															
+1347	Male	65+	Unmethylated	1	STR	>4500cGy		3.948227984	0	1															
+1348	Female	<65	Methylated	1	STR	>4500cGy		8.666464058	0	0															
+1349	Male	65+	Unmethylated	2	STR	4000-4500cGy		8.377234094	0	1															
+1350	Male	<65	Unknown	1	Biopsy	>4500cGy		12.32828205	0	1															
+1351	Male	<65	Unmethylated	0	Biopsy	Unknown		2.22859975	0	1															
+1352	Female	65+	Methylated	1	STR	4000-4500cGy		27.63736686	0	1															
+1353	Female	65+	Methylated	1	STR	>4500cGy		0.2856649194	0	1															
+1354	Female	<65	Methylated	1	STR	>4500cGy		14.16496284	0	0															
+1355	Male	65+	Unmethylated	2	STR	4000-4500cGy		1.267936513	0	1															
+1356	Male	65+	Methylated	1	STR	4000-4500cGy		11.03045728	0	0															
+1357	Male	65+	Unmethylated	2	STR	>4500cGy		1.793111794	0	1															
+1358	Female	65+	Methylated	0	STR	4000-4500cGy		65.10929307	0	1															
+1359	Male	<65	Unmethylated	1	STR	>4500cGy		9.06367027	0	1															
+1360	Female	<65	Methylated	Unknown	GTR	Unknown	5.199063	32.83617106	1	0															
+1361	Male	<65	Unmethylated	0	STR	>4500cGy		0.2541773398	0	1															
+1362	Male	65+	Methylated	1	GTR	>4500cGy	3.895615582	5.364853469	1	1															
+1363	Male	<65	Unmethylated	1	STR	>4500cGy		10.34576357	0	1															
+1364	Male	<65	Unmethylated	1	Biopsy	>4500cGy		7.936428638	0	1															
+1365	Female	65+	Methylated	1	GTR	>4500cGy		2.336778097	0	1															
+1366	Male	65+	Unmethylated	1	Biopsy	4000-4500cGy		3.883304065	0	1															
+1367	Male	<65	Methylated	1	STR	>4500cGy		1.642612733	0	1															
+1368	Male	65+	Unmethylated	2	Biopsy	4000-4500cGy		6.57471392	0	0															
+1369	Female	<65	Unmethylated	0	STR	>4500cGy		11.6473451	0	1															
+1370	Male	65+	Methylated	2	Biopsy	4000-4500cGy		2.869337731	0	1															
+1371	Male	65+	Unmethylated	1	STR	>4500cGy		21.43367285	0	0															
+1372	Female	<65	Unmethylated	1	GTR	>4500cGy		10.54954549	0	1															
+1373	Female	<65	Methylated	0	Unknown	>4500cGy		4.984905108	0	0															
+1374	Male	65+	Unmethylated	0	Biopsy	4000-4500cGy		3.608991588	0	0															
+1375	Female	<65	Methylated	1	Unknown	Unknown		6.417590442	0	0															
+1376	Male	<65	Methylated	1	STR	>4500cGy		2.230968713	0	0															
+1377	Male	65+	Unmethylated	0	GTR	>4500cGy	1.057551863	2.381230465	1	1															
+1378	Male	65+	Unmethylated	2	STR	4000-4500cGy		3.117293948	0	0															
+1379	Male	<65	Unmethylated	1	STR	>4500cGy		31.28197178	0	1															
+1380	Male	<65	Unmethylated	1	Biopsy	>4500cGy		2.135428382	0	1															
+1381	Female	65+	Unmethylated	2	STR	<4000cGy		1.695684519	0	1															
+1382	Male	65+	Methylated	1	GTR	4000-4500cGy		19.21038252	0	1															
+1383	Male	<65	Unmethylated	1	Biopsy	>4500cGy		18.01612588	0	0															
+1384	Female	65+	Methylated	2	GTR	4000-4500cGy		10.84322528	0	0															
+1385	Male	65+	Unmethylated	1	Biopsy	>4500cGy		2.798131519	0	1															
+1386	Male	65+	Methylated	2	STR	4000-4500cGy		1.297597324	0	1															
+1387	Female	65+	Methylated	2	STR	4000-4500cGy		12.69547388	0	0															
+1388	Male	<65	Unmethylated	0	GTR	>4500cGy		0.8488379217	0	1															
+1389	Female	65+	Unmethylated	0	GTR	4000-4500cGy		21.70017376	0	1															
+1390	Male	65+	Methylated	1	STR	<4000cGy		11.04381206	0	0															
+1391	Male	65+	Methylated	2	Biopsy	4000-4500cGy		5.860179041	0	1															
+1392	Female	<65	Methylated	2	Biopsy	4000-4500cGy		3.495330649	0	0															
+1393	Female	65+	Methylated	0	Biopsy	>4500cGy		10.20681786	0	1															
+1394	Female	<65	Unknown	0	Unknown	>4500cGy	1.891643688	2.101417652	1	0															
+1395	Male	<65	Methylated	2	Unknown	>4500cGy		12.03109133	0	1															
+1396	Male	<65	Unmethylated	2	GTR	>4500cGy		6.121119554	0	1															
+1397	Male	<65	Unmethylated	1	STR	>4500cGy		8.187509281	0	1															
+1398	Female	<65	Unmethylated	1	STR	>4500cGy	7.782865268	25.56201063	1	1															
+1399	Male	<65	Methylated	1	GTR	>4500cGy		28.72545925	0	0															
+1400	Male	65+	Unmethylated	1	STR	4000-4500cGy		2.312246718	0	0															
+1401	Male	65+	Methylated	0	STR	>4500cGy		9.729460866	0	1															
+1402	Male	<65	Unmethylated	1	STR	>4500cGy		7.804378215	0	0															
+1403	Female	<65	Unmethylated	1	STR	>4500cGy	0.396819292	7.899415675	1	1															
+1404	Male	<65	Methylated	2	Biopsy	>4500cGy		0.14942825	0	1															
+1405	Male	65+	Unmethylated	1	STR	4000-4500cGy		2.322297068	0	1															
+1406	Female	65+	Methylated	1	STR	4000-4500cGy		13.53139856	0	1															
+1407	Female	<65	Methylated	2	STR	>4500cGy		2.020671082	0	1															
+1408	Female	<65	Unmethylated	0	GTR	>4500cGy		13.35766718	0	1															
+1409	Male	65+	Unknown	1	STR	>4500cGy		10.46285664	0	1															
+1410	Male	65+	Unmethylated	1	STR	>4500cGy		4.962146589	0	0															
+1411	Male	<65	Unmethylated	1	STR	>4500cGy		4.515436588	0	1															
+1412	Male	65+	Methylated	0	STR	>4500cGy		1.33161905	0	1															
+1413	Female	65+	Unmethylated	0	GTR	4000-4500cGy		5.909780869	0	1															
+1414	Male	65+	Methylated	1	STR	>4500cGy		1.884768597	0	1															
+1415	Male	65+	Unmethylated	0	STR	4000-4500cGy		9.395385818	0	0															
+1416	Male	<65	Unknown	2	STR	>4500cGy		10.06437885	0	1															
+1417	Male	65+	Methylated	1	GTR	4000-4500cGy	3.449892354	4.4269679	1	1															
+1418	Male	<65	Unmethylated	1	STR	>4500cGy		4.054747717	0	0															
+1419	Male	65+	Methylated	1	GTR	4000-4500cGy		0.6856980549	0	1															
+1420	Male	<65	Methylated	2	STR	>4500cGy		5.162994838	0	1															
+1421	Male	<65	Unmethylated	1	GTR	>4500cGy	1.851155131	15.96498165	1	1															
+1422	Male	<65	Unknown	2	Biopsy	>4500cGy		10.21332215	0	1															
+1423	Male	<65	Unmethylated	2	Biopsy	>4500cGy		1.502979353	0	1															
+1424	Male	65+	Methylated	0	STR	4000-4500cGy		15.6153944	0	1															
+1425	Female	65+	Unknown	0	STR	>4500cGy		15.40721645	0	1															
+1426	Female	<65	Unknown	0	Biopsy	4000-4500cGy		65.5599646	0	0															
+1427	Male	<65	Unknown	1	Biopsy	>4500cGy		25.65801208	0	1															
+1428	Male	65+	Unmethylated	1	GTR	4000-4500cGy		4.219128297	0	1															
+1429	Male	<65	Unmethylated	0	GTR	>4500cGy		4.820757211	0	0															
+1430	Female	<65	Methylated	1	GTR	>4500cGy		0.1167127978	0	1															
+1431	Male	65+	Unmethylated	0	Biopsy	>4500cGy		13.95465033	0	1															
+1432	Female	<65	Methylated	1	STR	>4500cGy		6.906261053	0	0															
+1433	Male	<65	Unmethylated	0	STR	>4500cGy		29.42461777	0	0															
+1434	Female	65+	Methylated	0	STR	4000-4500cGy		9.792193238	0	0															
+1435	Male	<65	Unmethylated	1	Biopsy	>4500cGy	1.330505791	3.853799706	1	1															
+1436	Female	<65	Unmethylated	0	STR	>4500cGy		3.19490478	0	0															
+1437	Female	65+	Methylated	0	Biopsy	4000-4500cGy		2.868368564	0	1															
+1438	Female	<65	Unmethylated	1	STR	>4500cGy	2.257464234	7.679091183	1	1															
+1439	Female	<65	Methylated	0	STR	4000-4500cGy		11.76643147	0	0															
+1440	Male	<65	Unmethylated	2	GTR	>4500cGy		7.096039771	0	1															
+1441	Male	<65	Unmethylated	2	GTR	>4500cGy		0.6919746867	0	1															
+1442	Male	65+	Methylated	2	Biopsy	4000-4500cGy		5.659025547	0	1															
+1443	Male	65+	Unmethylated	0	STR	>4500cGy		8.097511193	0	1															
+1444	Female	65+	Methylated	1	Biopsy	4000-4500cGy		4.183227117	0	1															
+1445	Female	<65	Methylated	1	GTR	>4500cGy	1.634074089	4.328472016	1	1															
+1446	Female	65+	Methylated	2	Biopsy	4000-4500cGy		12.55920987	0	1															
+1447	Female	<65	Methylated	1	Biopsy	4000-4500cGy		8.040612089	0	0															
+1448	Female	65+	Methylated	2	GTR	>4500cGy		61.93535915	0	0															
+1449	Male	<65	Methylated	1	STR	>4500cGy		12.995522	0	0															
+1450	Male	<65	Methylated	2	Biopsy	>4500cGy		5.287551552	0	1															
+1451	Male	<65	Unmethylated	2	STR	<4000cGy		13.03411418	0	1															
+1452	Female	<65	Methylated	1	Biopsy	4000-4500cGy		8.251576695	0	0															
+1453	Male	<65	Unmethylated	1	GTR	>4500cGy		12.00055566	0	1															
+1454	Male	<65	Unmethylated	0	Biopsy	>4500cGy		1.707239015	0	1															
+1455	Female	65+	Unmethylated	2	GTR	4000-4500cGy		7.127160768	0	1															
+1456	Male	65+	Unmethylated	0	STR	4000-4500cGy		20.93920405	0	1															
+1457	Male	65+	Unmethylated	1	Biopsy	4000-4500cGy		1.365548121	0	1															
+1458	Female	<65	Unmethylated	1	STR	4000-4500cGy		45.38644544	0	1															
+1459	Female	<65	Methylated	1	GTR	>4500cGy		15.74161947	0	1															
+1460	Female	<65	Methylated	0	STR	>4500cGy		20.48165312	0	0															
+1461	Female	65+	Unmethylated	1	STR	>4500cGy		2.406219035	0	1															
+1462	Male	65+	Methylated	2	GTR	>4500cGy		4.513378366	0	1															
+1463	Male	<65	Methylated	1	Biopsy	>4500cGy		8.749811662	0	0															
+1464	Male	<65	Unmethylated	1	GTR	>4500cGy		2.946983419	0	1															
+1465	Male	65+	Unmethylated	0	GTR	4000-4500cGy		20.31771119	0	1															
+1466	Male	<65	Unmethylated	1	GTR	>4500cGy		10.59628841	0	0															
+1467	Male	<65	Unmethylated	2	STR	>4500cGy		2.107608476	0	0															
+1468	Male	<65	Unmethylated	1	GTR	>4500cGy		7.411690563	0	0															
+1469	Female	<65	Unmethylated	1	GTR	>4500cGy		9.44221687	0	1															
+1470	Male	<65	Unmethylated	0	STR	>4500cGy		41.9364049	0	1															
+1471	Male	<65	Methylated	1	GTR	>4500cGy		31.75543629	0	0															
+1472	Female	65+	Unmethylated	1	STR	>4500cGy		2.088315103	0	1															
+1473	Male	65+	Unmethylated	1	STR	4000-4500cGy	7.7117536	12.2532443	1	0															
+1474	Male	65+	Unmethylated	1	STR	>4500cGy		23.062519	0	1															
+1475	Female	65+	Methylated	1	STR	4000-4500cGy		2.853076489	0	1															
+1476	Male	<65	Unmethylated	2	STR	>4500cGy		6.710426069	0	0															
+1477	Male	65+	Unknown	2	Biopsy	4000-4500cGy		0.6251111511	0	1															
+1478	Female	<65	Unmethylated	0	GTR	>4500cGy		7.149141564	0	0															
+1479	Male	<65	Unmethylated	0	GTR	>4500cGy		13.72214704	0	1															
+1480	Male	<65	Unmethylated	2	Biopsy	>4500cGy		3.95691638	0	0															
+1481	Male	65+	Methylated	0	GTR	>4500cGy		27.34798302	0	1															
+1482	Male	<65	Methylated	2	STR	>4500cGy		13.19532588	0	1															
+1483	Male	<65	Unmethylated	1	Biopsy	>4500cGy		0.4758951477	0	1															
+1484	Male	65+	Unknown	1	GTR	>4500cGy		9.744207566	0	0															
+1485	Male	65+	Unmethylated	0	GTR	>4500cGy	2.649225448	9.380593411	1	0															
+1486	Female	<65	Methylated	1	GTR	>4500cGy		49.334579	0	0															
+1487	Female	65+	Unmethylated	1	STR	>4500cGy		1.667000037	0	0															
+1488	Male	<65	Unmethylated	1	GTR	>4500cGy		4.39856039	0	0															
+1489	Female	<65	Methylated	2	STR	>4500cGy		6.324949443	0	1															
+1490	Female	65+	Unknown	1	Biopsy	4000-4500cGy	5.640330804	5.788345389	1	1															
+1491	Female	65+	Unmethylated	1	Biopsy	4000-4500cGy		11.13127135	0	1															
+1492	Female	65+	Unmethylated	1	STR	>4500cGy		5.618509518	0	0															
+1493	Male	<65	Unknown	1	Biopsy	>4500cGy		2.701875277	0	1															
+1494	Female	65+	Unmethylated	1	STR	4000-4500cGy		0.5975256346	0	1															
+1495	Female	<65	Unmethylated	0	Biopsy	>4500cGy		23.69994121	0	1															
+1496	Male	<65	Unmethylated	2	Unknown	>4500cGy		10.94572018	0	0															
+1497	Female	65+	Methylated	1	Biopsy	>4500cGy	0.7155985344	2.246775654	1	1															
+1498	Female	<65	Methylated	0	GTR	>4500cGy		2.335652488	0	1															
+1499	Male	<65	Unmethylated	1	GTR	>4500cGy	0.8758896128	18.02516074	1	0															
+1500	Male	<65	Methylated	2	STR	4000-4500cGy		16.89748604	0	0															
+1501	Male	<65	Unmethylated	0	STR	>4500cGy		3.470649081	0	1															
+1502	Male	<65	Unmethylated	1	GTR	>4500cGy		4.028179533	0	1															
+1503	Male	65+	Methylated	0	STR	>4500cGy		1.878460622	0	1															
+1504	Male	<65	Methylated	1	STR	>4500cGy		9.56500333	0	1															
+1505	Female	65+	Unknown	2	STR	4000-4500cGy		9.156084676	0	1															
+1506	Male	65+	Unmethylated	2	GTR	>4500cGy		1.5	0	0															
+1507	Female	<65	Methylated	2	STR	4000-4500cGy		8.629464537	0	0															
+1508	Female	<65	Methylated	1	GTR	>4500cGy		3.192585652	0	1															
+1509	Male	<65	Methylated	0	STR	>4500cGy		66.47069258	0	0															
+1510	Male	<65	Methylated	1	Biopsy	>4500cGy		40.17430477	0	1															
+1511	Male	65+	Unknown	2	Biopsy	4000-4500cGy		5.993269254	0	1															
+1512	Male	<65	Methylated	1	STR	>4500cGy		2.242799805	0	0															
