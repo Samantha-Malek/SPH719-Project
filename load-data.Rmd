@@ -14,5 +14,5 @@ library(gtsummary)
 # Example of how to set your working directory:
 # setwd("/Users/samanthamalek/School/SPH719/SPH719-Project")
 
-df <- read_excel("~/Project_C.xlsx")
+df <- read_excel("ProjectC.xlsx")
 ```
