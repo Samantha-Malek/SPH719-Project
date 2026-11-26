@@ -1,0 +1,84 @@
+---
+title: 'SPH 719 Project'
+output: word_document
+date: "2026-11-23"
+editor_options: 
+  chunk_output_type: console
+---
+
+**Install Packages/Library**
+```{r Library}
+library(readxl)
+library(naniar)
+library(dplyr)
+library(gtsummary)
+```
+
+**Descriptive Statistics/Data Exploration**
+
+```{r missingness}
+missingness_table <- miss_var_summary(ProjectC)
+print(missingness_table) 
+
+sum(tolower(ProjectC$TotalRadDose) == "unknown", na.rm = TRUE) 
+sum(tolower(ProjectC$ECOG) == "unknown", na.rm = TRUE)
+
+
+```
+
+- total unknown radiation dose (could be considered missing?) = 41
+- total unknown ECOG (could be considered missing?) = 14
+- other than that, no missing covariate data
+
+```{r splitting up vte, greater/less than 3 mos}
+
+ProjectC <- ProjectC %>% mutate(vte_timing = case_when(
+  Vte_status == 0 ~ "No VTE", 
+  Time_vte <=3 ~ "VTE <= 3 mos", 
+  Time_vte > 3 ~ "VTE > 3 mos"))
+
+table(ProjectC$vte_timing, useNA = "ifany")
+```
+
+- split up VTE into greater than or less than 3 months, might be helpful for analyses?
+
+```{r descriptive statistics}
+
+desc_stat <- ProjectC %>%
+  select(Sex, Age, MGMT, ECOG, EOR, TotalRadDose, Vte_status, Death_status, vte_timing) %>%
+  tbl_summary(statistic = list())
+
+print(desc_stat)
+#frequency of categorical variables
+
+desc_stat_bystatus <- ProjectC %>%
+  select(Sex, Age, MGMT, ECOG, EOR, TotalRadDose, Vte_status, Death_status, vte_timing) %>%
+  tbl_summary(statistic = list(), by = Vte_status)
+
+print(desc_stat_bystatus)
+#frequency of categorical variables by VTE status for fun
+
+desc_stat_bytime <- ProjectC %>%
+  select(Sex, Age, MGMT, ECOG, EOR, TotalRadDose, Vte_status, Death_status, vte_timing) %>%
+  tbl_summary(statistic = list(), by = vte_timing)
+
+print(desc_stat_bytime)
+#frequency of categorical variables by VTE greater/less than 3 mos for fun
+
+desc_continuous <- ProjectC %>%
+  select(Time_vte, 'Time_death/censoring') %>%
+  tbl_summary(
+    type = all_continuous() ~ "continuous2",
+    statistic = all_continuous() ~ c(
+      "{mean} ({sd})",
+      "{median} ({p25}, {p75})"
+    ),
+    digits = all_continuous() ~ 1, # Rounds to 1 decimal place
+    missing_text = "No VTE / Missing"
+  ) %>%
+  add_overall()
+
+desc_continuous
+
+```
+

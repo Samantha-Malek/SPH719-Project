@@ -1,0 +1,18 @@
+---
+title: "load-data"
+author: "Samantha Malek"
+date: "2026-11-26"
+output: word_document
+---
+
+```{r}
+library(readxl)
+library(naniar)
+library(dplyr)
+library(gtsummary)
+
+# Example of how to set your working directory:
+# setwd("/Users/samanthamalek/School/SPH719/SPH719-Project")
+
+df <- read_excel("~/Project_C.xlsx")
+```
