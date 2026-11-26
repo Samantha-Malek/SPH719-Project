@@ -1,8 +1,0 @@
----
-title: "data-explore"
-author: "Samantha Malek"
-date: "2026-11-21"
-output: word_document
----
-
-# Paste code here
